@@ -1,0 +1,5514 @@
+{
+  "id": "E74C4C94-9813-4E88-A120-FD53498999F1",
+  "title": "Revolutionary New York: From Revolution to Wall Street",
+  "description": "Walk through Lower Manhattan to uncover how New York City shaped—and was shaped by—the American Revolution. From secret tavern meetings to the fall of monarchic symbols, this tour traces the pulse of rebellion through the financial heart of America.",
+  "duration": 2700,
+  "chapters": [
+    {
+      "id": "AAAFC392-A21B-4A12-A0DD-2C941EBC6822",
+      "waypointId": "BCDFC392-A21B-4A12-A0DD-2C941EBC6821",
+      "title": "Intro",
+      "paragraphs": [
+        {
+          "segments": [
+            {
+              "text": " On a warm summer evening in 1776, a small crowd in lower Manhattan gathered by flickering lantern light around an equestrian statue of King George III.",
+              "start": 0.0,
+              "end": 9.760000228881836
+            },
+            {
+              "text": " Just hours earlier, the Declaration of Independence had been read aloud to Continental Army troops up at the Commons.",
+              "start": 10.420000076293945,
+              "end": 15.859999656677246
+            },
+            {
+              "text": " Now, adrenaline and anger coursed through the streets.",
+              "start": 16.84000015258789,
+              "end": 19.559999465942383
+            },
+            {
+              "text": " One by one, hands grasped ropes tied around the towering lead statue.",
+              "start": 20.200000762939453,
+              "end": 24.0
+            },
+            {
+              "text": " With a heave and a shout, the crowd yanked.",
+              "start": 24.5,
+              "end": 27.040000915527344
+            },
+            {
+              "text": " The colossal monarch teetered, imagined the creak of metal, then toppled with a thunderous crash.",
+              "start": 28.040000915527344,
+              "end": 33.79999923706055
+            },
+            {
+              "text": " Cheers erupted.",
+              "start": 34.79999923706055,
+              "end": 35.36000061035156
+            },
+            {
+              "text": " Almost immediately, women and children swarmed the fallen 4,000-pound figure, hacking it apart.",
+              "start": 36.060001373291016,
+              "end": 41.18000030517578
+            },
+            {
+              "text": " What remained of King George was carted off to a Connecticut foundry, where, legend has it, the pieces were melted into 42,088 musket balls.",
+              "start": 41.70000076293945,
+              "end": 50.58000183105469
+            },
+            {
+              "text": " Melted majesty, to fire back at the Redcoats.",
+              "start": 51.31999969482422,
+              "end": 53.84000015258789
+            },
+            {
+              "text": " In the glow of that moment, an act of symbolic rebellion literally turned an icon of oppression into ammunition for freedom.",
+              "start": 54.36000061035156,
+              "end": 61.47999954223633
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Can you picture it?",
+              "start": 62.2599983215332,
+              "end": 62.97999954223633
+            },
+            {
+              "text": " The clanging of metal, the whoops of triumph, and maybe a tinge of fear, too.",
+              "start": 63.619998931884766,
+              "end": 68.04000091552734
+            },
+            {
+              "text": " This wasn't just vandalism.",
+              "start": 68.58000183105469,
+              "end": 69.91999816894531
+            },
+            {
+              "text": " It was high treason against the crown.",
+              "start": 70.5199966430664,
+              "end": 72.4800033569336
+            },
+            {
+              "text": " But New York in 1776 was a city electrified by revolutionary fervor and teetering on chaos.",
+              "start": 72.76000213623047,
+              "end": 79.30000305175781
+            },
+            {
+              "text": " The air smelled of both liberty and danger.",
+              "start": 79.66000366210938,
+              "end": 82.0
+            },
+            {
+              "text": " And it's right here in the southern tip of Manhattan that some of the American Revolution's most pivotal and surprising stories unfolded.",
+              "start": 82.0,
+              "end": 89.58000183105469
+            },
+            {
+              "text": " If you stand today at Bowling Green, where that statue once loomed, you can almost feel the echoes.",
+              "start": 90.37999725341797,
+              "end": 95.55999755859375
+            },
+            {
+              "text": " The exhilaration of patriots who dared to pull down a king.",
+              "start": 96.33999633789062,
+              "end": 99.45999908447266
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " The thesis of our journey is this.",
+              "start": 99.76000213623047,
+              "end": 102.0
+            },
+            {
+              "text": " New York City, often celebrated as a modern metropolis, holds an older, hidden layer where the foundations of American independence were laid in blood and idealism.",
+              "start": 102.23999786376953,
+              "end": 111.36000061035156
+            },
+            {
+              "text": " Manhattan was a stage where an unlikely cast, from young radicals and tavern keepers to George Washington himself, navigated events that would shape a nation.",
+              "start": 111.91999816894531,
+              "end": 120.05999755859375
+            },
+            {
+              "text": " And unlike, say, sleepy colonial Williamsburg, New York was messy and loud, a booming port full of contrasts.",
+              "start": 120.80000305175781,
+              "end": 128.22000122070312
+            },
+            {
+              "text": " That makes its revolutionary history especially rich.",
+              "start": 128.22000122070312,
+              "end": 131.22000122070312
+            },
+            {
+              "text": " In these few square miles, we find a microcosm of America's birth.",
+              "start": 131.83999633789062,
+              "end": 135.33999633789062
+            },
+            {
+              "text": " High ideals clashing with gritty reality, heroism and betrayal playing out literally on the same block.",
+              "start": 135.33999633789062,
+              "end": 141.72000122070312
+            },
+            {
+              "text": " Why does this story matter now?",
+              "start": 142.39999389648438,
+              "end": 143.77999877929688
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Well, consider the debates we continue to have over protests and monuments, over who deserves to be an icon.",
+              "start": 144.5,
+              "end": 150.63999938964844
+            },
+            {
+              "text": " The image of New Yorkers wrenching down King George's statue resonates today as we reconsider statues and historical memory in our own time.",
+              "start": 151.17999267578125,
+              "end": 159.3000030517578
+            },
+            {
+              "text": " Knowing that 245 years ago, people here struggled over symbols of power gives context to our modern conversations.",
+              "start": 159.97999572753906,
+              "end": 166.55999755859375
+            },
+            {
+              "text": " And beyond that, seeing how New York, a city of merchants and migrants, was central to the revolution reminds us that the fight for freedom wasn't only in fields of Lexington or Yorktown.",
+              "start": 167.25999450683594,
+              "end": 178.39999389648438
+            },
+            {
+              "text": " It was also in narrow Manhattan lanes amidst church bells and ship masts in a place then as diverse and complicated as the nation to be.",
+              "start": 178.86000061035156,
+              "end": 187.6999969482422
+            },
+            {
+              "text": " Our conceptual framing, think of this tour as peeling back the asphalt of today's financial district to reveal the colonial cobblestones beneath.",
+              "start": 188.3000030517578,
+              "end": 196.22000122070312
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Each site we visit is a portal to a dramatic moment, an uprising, an espionage tale, a bold political experiment.",
+              "start": 197.0,
+              "end": 203.44000244140625
+            },
+            {
+              "text": " We're going to reflect on big themes, liberty, loyalty, memory, but always tied to concrete places and sensory details.",
+              "start": 203.72000122070312,
+              "end": 211.0
+            },
+            {
+              "text": " As we walk, notice the contrasts.",
+              "start": 211.72000122070312,
+              "end": 213.94000244140625
+            },
+            {
+              "text": " A glass skyscraper casting a shadow over the 18th century grave of Alexander Hamilton.",
+              "start": 214.0399932861328,
+              "end": 218.5
+            },
+            {
+              "text": " The roar of Wall Street finance enveloping the quiet of a 300-year-old churchyard.",
+              "start": 219.24000549316406,
+              "end": 223.74000549316406
+            },
+            {
+              "text": " These layers are what make New York's history compelling.",
+              "start": 224.3800048828125,
+              "end": 227.0800018310547
+            },
+            {
+              "text": " It's not sanitized.",
+              "start": 228.0399932861328,
+              "end": 229.0800018310547
+            },
+            {
+              "text": " It's immediate and pulsating, then and now.",
+              "start": 229.44000244140625,
+              "end": 232.55999755859375
+            },
+            {
+              "text": " One more thing before we set off.",
+              "start": 233.05999755859375,
+              "end": 234.66000366210938
+            },
+            {
+              "text": " This isn't just a history lesson.",
+              "start": 234.97999572753906,
+              "end": 236.5399932861328
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " It's a story about people and moments that will sneak up on you.",
+              "start": 236.5399932861328,
+              "end": 240.89999389648438
+            },
+            {
+              "text": " Perhaps you'll find inspiration in the defiance of those statue-topplers or empathy for the frightened civilians watching the great fire of 1776 consume a quarter of their city.",
+              "start": 241.60000610351562,
+              "end": 251.74000549316406
+            },
+            {
+              "text": " Maybe you'll stand in St. Paul's Chapel where Washington prayed and suddenly history won't feel so distant.",
+              "start": 252.5,
+              "end": 258.0799865722656
+            },
+            {
+              "text": " It'll feel personal, tangible.",
+              "start": 258.94000244140625,
+              "end": 261.0799865722656
+            },
+            {
+              "text": " That's my goal as your guide and storyteller.",
+              "start": 261.29998779296875,
+              "end": 264.0199890136719
+            },
+            {
+              "text": " To weave together the big-picture context and the intimate anecdote so the past comes alive around us.",
+              "start": 264.0199890136719,
+              "end": 270.3599853515625
+            },
+            {
+              "text": " Before we begin walking, let's take a moment to set the scene.",
+              "start": 270.67999267578125,
+              "end": 273.5799865722656
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Let's rewind to the early 1700s.",
+              "start": 274.5,
+              "end": 276.6600036621094
+            },
+            {
+              "text": " Envision New York circa 1720.",
+              "start": 277.29998779296875,
+              "end": 279.260009765625
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Not skyscrapers, but two- and three-story gabled houses.",
+              "start": 279.79998779296875,
+              "end": 282.8800048828125
+            },
+            {
+              "text": " Not honking taxis, but horse carts clattering on Dutch paved streets.",
+              "start": 283.5400085449219,
+              "end": 287.260009765625
+            },
+            {
+              "text": " The entire city of New York fits at the lower tip of Manhattan below today's City Hall.",
+              "start": 287.6600036621094,
+              "end": 292.29998779296875
+            },
+            {
+              "text": " It's a patchwork of cultures.",
+              "start": 292.82000732421875,
+              "end": 294.32000732421875
+            },
+            {
+              "text": " Dutch, English, African.",
+              "start": 295.0199890136719,
+              "end": 296.4800109863281
+            },
+            {
+              "text": " About 5,000 people by 1700.",
+              "start": 296.760009765625,
+              "end": 298.739990234375
+            },
+            {
+              "text": " The scent of the sea mingles with that of tavern ale and open sewers.",
+              "start": 299.5199890136719,
+              "end": 303.20001220703125
+            },
+            {
+              "text": " This is a bustling seaport, the Hudson or North River, lapping at its western wharves and the East River at its eastern ones.",
+              "start": 303.44000244140625,
+              "end": 310.6000061035156
+            },
+            {
+              "text": " At night, oil lamps flicker against the wooden palisade wall that once ran along present-day Wall Street, built in 1653 to defend New Amsterdam.",
+              "start": 311.0799865722656,
+              "end": 320.1400146484375
+            },
+            {
+              "text": " By 1776, that wall is long gone, but the name remains.",
+              "start": 320.7799987792969,
+              "end": 324.70001220703125
+            },
+            {
+              "text": " And so does the city's reputation as a prize worth fighting over.",
+              "start": 325.3599853515625,
+              "end": 329.17999267578125
+            },
+            {
+              "text": " New York's strategic value was huge.",
+              "start": 329.5,
+              "end": 331.3599853515625
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " A deep harbor, gateway to the continent, and a population swollen to about 25,000.",
+              "start": 331.8999938964844,
+              "end": 337.0400085449219
+            },
+            {
+              "text": " The second largest city in the colonies after Philadelphia.",
+              "start": 337.739990234375,
+              "end": 340.67999267578125
+            },
+            {
+              "text": " Culturally, it's rambunctious and commerce-driven.",
+              "start": 341.44000244140625,
+              "end": 343.4800109863281
+            },
+            {
+              "text": " While Boston might lecture you on theology and Philadelphia on philosophy, New York hustles with trade.",
+              "start": 343.4800109863281,
+              "end": 349.8800048828125
+            },
+            {
+              "text": " Yet New Yorkers are political, too.",
+              "start": 350.3800048828125,
+              "end": 352.5199890136719
+            },
+            {
+              "text": " In 1735, printer John Peter Zenger, living near Wall Street, is tried for seditious libel, essentially for publishing criticism of the royal governor.",
+              "start": 353.1000061035156,
+              "end": 362.82000732421875
+            },
+            {
+              "text": " His acquittal, decided in the old City Hall on Wall Street, is a triumph for the idea of a free press.",
+              "start": 363.55999755859375,
+              "end": 369.94000244140625
+            },
+            {
+              "text": " Picture colonial citizens cheering that verdict outside, under the very balcony where, decades later, Washington will take his oath as president.",
+              "start": 370.4599914550781,
+              "end": 378.67999267578125
+            },
+            {
+              "text": " Already, the seeds of independence and civil liberty are being planted in New York's soil.",
+              "start": 379.1600036621094,
+              "end": 383.7200012207031
+            },
+            {
+              "text": " Fast forward to the 1760s-70s.",
+              "start": 384.739990234375,
+              "end": 387.3399963378906
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Tensions with Britain escalate.",
+              "start": 387.739990234375,
+              "end": 389.0
+            },
+            {
+              "text": " New York feels it intensely.",
+              "start": 389.6600036621094,
+              "end": 391.0400085449219
+            },
+            {
+              "text": " It's an occupied city even before war breaks out, with red-coated soldiers quartered among civilians.",
+              "start": 391.5799865722656,
+              "end": 396.8599853515625
+            },
+            {
+              "text": " In 1765, the Stamp Act Congress meets at City Hall, uniting colonies in protest.",
+              "start": 398.4599914550781,
+              "end": 403.7799987792969
+            },
+            {
+              "text": " New Yorkers erect a Liberty Pole in the Commons, today's City Hall Park, to celebrate the Stamp Act's repeal.",
+              "start": 404.6199951171875,
+              "end": 409.8999938964844
+            },
+            {
+              "text": " British soldiers repeatedly cut it down, leading to street fights and the Battle of Golden Hill in 1770,",
+              "start": 410.67999267578125,
+              "end": 416.79998779296875
+            },
+            {
+              "text": " one of the first bloodshed incidents between colonists and troops, predating Lexington.",
+              "start": 417.260009765625,
+              "end": 421.67999267578125
+            },
+            {
+              "text": " These commons were truly common, a gathering ground for protests.",
+              "start": 422.4800109863281,
+              "end": 426.32000732421875
+            },
+            {
+              "text": " And indeed, where on July 9, 1776, General Washington had his troops hear the freshly arrived Declaration of Independence.",
+              "start": 426.760009765625,
+              "end": 435.1199951171875
+            },
+            {
+              "text": " It's said they cheered so loudly, the sound ricocheted down Broadway.",
+              "start": 435.8999938964844,
+              "end": 439.7200012207031
+            },
+            {
+              "text": " Then many joined that mob at Bowling Green to topple King George's statue.",
+              "start": 440.2799987792969,
+              "end": 444.260009765625
+            },
+            {
+              "text": " Talk about a mood swing for the city.",
+              "start": 444.9800109863281,
+              "end": 446.6400146484375
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Yet only a few weeks later, reality hit hard.",
+              "start": 446.8999938964844,
+              "end": 449.8999938964844
+            },
+            {
+              "text": " By late August 1776, a massive British fleet and army had descended on New York.",
+              "start": 450.4599914550781,
+              "end": 455.8599853515625
+            },
+            {
+              "text": " After the Battle of Long Island, Washington's forces had to retreat through Manhattan.",
+              "start": 456.44000244140625,
+              "end": 460.17999267578125
+            },
+            {
+              "text": " The city fell to the British by September.",
+              "start": 460.8999938964844,
+              "end": 462.5400085449219
+            },
+            {
+              "text": " Then overnight on September 21, 1776, a mysterious inferno, the Great Fire, ripped through a quarter of the city.",
+              "start": 463.239990234375,
+              "end": 471.2799987792969
+            },
+            {
+              "text": " As we'll discuss at Trinity Church, flames consumed hundreds of buildings, including that first Trinity Church itself.",
+              "start": 472.05999755859375,
+              "end": 478.82000732421875
+            },
+            {
+              "text": " Some patriots might have set the blaze to deny housing to British troops.",
+              "start": 479.5,
+              "end": 483.1000061035156
+            },
+            {
+              "text": " Whatever the cause, it left thousands homeless and Manhattan's skyline, church spires and all, in ashes.",
+              "start": 483.70001220703125,
+              "end": 490.0400085449219
+            },
+            {
+              "text": " The Anglican Loyalist Rector of Trinity, a Revimer Inglis, wrote that the city looked like a city of the dead after the fire.",
+              "start": 490.4200134277344,
+              "end": 497.5799865722656
+            },
+            {
+              "text": " Envisioned charred remnants, smoke hanging in the air, and British soldiers suspiciously rounding up Americans,",
+              "start": 498.4800109863281,
+              "end": 504.3599853515625
+            },
+            {
+              "text": " Nathan Hale was executed around this time for spying.",
+              "start": 504.6600036621094,
+              "end": 507.20001220703125
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " For the rest of the war, 1776 to 1783, New York was British HQ, a Loyalist bastion in a rebellious land.",
+              "start": 508.2200012207031,
+              "end": 516.5599975585938
+            },
+            {
+              "text": " Think of it as an occupied zone under martial law.",
+              "start": 517.52001953125,
+              "end": 519.760009765625
+            },
+            {
+              "text": " Many patriot residents had fled.",
+              "start": 520.4199829101562,
+              "end": 522.0
+            },
+            {
+              "text": " Those who remained navigated a harsh life, food shortages, martial law crackdowns,",
+              "start": 523.0399780273438,
+              "end": 527.280029296875
+            },
+            {
+              "text": " and a prison ship system in Wallabout Bay that became a death factory for captured American soldiers.",
+              "start": 527.8599853515625,
+              "end": 532.8400268554688
+            },
+            {
+              "text": " Yet, even under occupation, sparks of intrigue flew.",
+              "start": 533.4400024414062,
+              "end": 536.219970703125
+            },
+            {
+              "text": " In 1780, for instance, a plot between American General Benedict Arnold and British Major John André to betray West Point unraveled.",
+              "start": 536.8200073242188,
+              "end": 544.719970703125
+            },
+            {
+              "text": " And where did André operate out of?",
+              "start": 545.1400146484375,
+              "end": 546.8200073242188
+            },
+            {
+              "text": " British-held New York.",
+              "start": 547.719970703125,
+              "end": 548.8800048828125
+            },
+            {
+              "text": " There's a story in France's tavern's lore.",
+              "start": 549.6799926757812,
+              "end": 551.9199829101562
+            },
+            {
+              "text": " The tavern's owner, Samuel Frances, may have passed intelligence that helped foil that plot.",
+              "start": 552.4400024414062,
+              "end": 557.3400268554688
+            },
+            {
+              "text": " Whether fully true or not, it underscores that New York was a hotbed of espionage and double-dealing.",
+              "start": 557.739990234375,
+              "end": 563.0
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Now place yourself on November 25, 1783, Evacuation Day.",
+              "start": 564.0,
+              "end": 569.1400146484375
+            },
+            {
+              "text": " After the Treaty of Paris, the British finally leave New York City.",
+              "start": 570.1599731445312,
+              "end": 573.4600219726562
+            },
+            {
+              "text": " As the last redcoats prepare it from the Battery, the fort at today's Battery Park,",
+              "start": 574.0999755859375,
+              "end": 578.6199951171875
+            },
+            {
+              "text": " cheeky British soldiers nail their Union Jack to a flagpole and grease the pole heavily.",
+              "start": 579.3400268554688,
+              "end": 583.52001953125
+            },
+            {
+              "text": " They're determined to make the Yankees struggle to replace it with the Stars and Stripes.",
+              "start": 584.1199951171875,
+              "end": 588.4400024414062
+            },
+            {
+              "text": " Enter a young American sergeant, John Van Arsdale.",
+              "start": 589.239990234375,
+              "end": 592.47998046875
+            },
+            {
+              "text": " In a bit of legendary daring-do, he nails on wooden cleats as he climbs",
+              "start": 593.260009765625,
+              "end": 597.3200073242188
+            },
+            {
+              "text": " and manages to yank down the British flag and hoist the American one.",
+              "start": 597.3200073242188,
+              "end": 601.2000122070312
+            },
+            {
+              "text": " The watching crowd, including George Washington and Governor Clinton, roars.",
+              "start": 601.7999877929688,
+              "end": 606.4400024414062
+            },
+            {
+              "text": " It's a scene of catharsis eight long years after those same folks had torn down George III's statue nearby.",
+              "start": 607.0800170898438,
+              "end": 612.6799926757812
+            },
+            {
+              "text": " Every year after, New Yorkers celebrated Evacuation Day with gusto,",
+              "start": 613.5800170898438,
+              "end": 617.4600219726562
+            },
+            {
+              "text": " often more than the Fourth of July, until it eventually faded post-Civil War.",
+              "start": 617.4600219726562,
+              "end": 621.7000122070312
+            },
+            {
+              "text": " But the memory is our tour's culmination.",
+              "start": 622.0999755859375,
+              "end": 624.2000122070312
+            },
+            {
+              "text": " The idea that New York, scarred and occupied, emerges triumphant as part of an independent United States.",
+              "start": 624.7999877929688,
+              "end": 630.8200073242188
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " So by the time our tour's period closes, late 1780s,",
+              "start": 631.2000122070312,
+              "end": 634.780029296875
+            },
+            {
+              "text": " New York City is rising from the Revolutionary Era physically and metaphorically.",
+              "start": 635.2000122070312,
+              "end": 639.1199951171875
+            },
+            {
+              "text": " The scars of fire and war remain, but rebuilding is underway.",
+              "start": 639.5800170898438,
+              "end": 643.5999755859375
+            },
+            {
+              "text": " In 1785, under the Articles of Confederation, New York becomes the national capital.",
+              "start": 643.5999755859375,
+              "end": 649.4400024414062
+            },
+            {
+              "text": " In 1789, it's the first capital of the U.S. under the Constitution,",
+              "start": 650.280029296875,
+              "end": 654.1400146484375
+            },
+            {
+              "text": " and Washington is inaugurated on Wall Street.",
+              "start": 654.7000122070312,
+              "end": 657.0
+            },
+            {
+              "text": " The very taverns and churches we'll visit witness that transition from colony to republic.",
+              "start": 658.02001953125,
+              "end": 662.9600219726562
+            },
+            {
+              "text": " The key concepts we'll touch throughout are now set.",
+              "start": 663.3800048828125,
+              "end": 665.9199829101562
+            },
+            {
+              "text": " Colonial New York's diversity and strife, the flames of revolution, literal and figurative,",
+              "start": 666.9400024414062,
+              "end": 672.0599975585938
+            },
+            {
+              "text": " and the birth of American governance on these streets.",
+              "start": 672.0599975585938,
+              "end": 675.52001953125
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Sensory, emotional layers will be with us as we walk.",
+              "start": 676.6400146484375,
+              "end": 679.280029296875
+            },
+            {
+              "text": " When we stand in front of France's tavern, I want you to almost hear the clink of glasses",
+              "start": 679.739990234375,
+              "end": 683.97998046875
+            },
+            {
+              "text": " and low, conspiratorial whispers of Sons of Liberty plotting rebellion.",
+              "start": 683.97998046875,
+              "end": 688.0399780273438
+            },
+            {
+              "text": " In St. Paul's Chapel, feel the stillness and imagine Washington kneeling in prayer on Inauguration Day,",
+              "start": 688.9000244140625,
+              "end": 694.8800048828125
+            },
+            {
+              "text": " tears in his eyes perhaps from relief or hope.",
+              "start": 695.7999877929688,
+              "end": 698.1199951171875
+            },
+            {
+              "text": " At the African Burial Ground, touch the carved names on the memorial and absorb the sorrow of",
+              "start": 698.6799926757812,
+              "end": 704.0999755859375
+            },
+            {
+              "text": " those 15,000 enslaved and free Africans laid to rest under what is now busy pavement.",
+              "start": 704.0999755859375,
+              "end": 709.02001953125
+            },
+            {
+              "text": " These human experiences—courage, fear, joy, suffering—make the history real.",
+              "start": 710.4199829101562,
+              "end": 715.47998046875
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " As we set off to our first stop, keep this context in mind.",
+              "start": 715.8400268554688,
+              "end": 719.3200073242188
+            },
+            {
+              "text": " Manhattan's streets are not orderly grids down here.",
+              "start": 719.9199829101562,
+              "end": 722.5800170898438
+            },
+            {
+              "text": " They twist and turn because they date to cow paths and colonial lanes.",
+              "start": 722.8400268554688,
+              "end": 726.5999755859375
+            },
+            {
+              "text": " It's fitting. The story of revolutionary New York isn't a straight line either.",
+              "start": 727.4600219726562,
+              "end": 731.6799926757812
+            },
+            {
+              "text": " It's a twisting path of conflict and community.",
+              "start": 732.1400146484375,
+              "end": 734.760009765625
+            },
+            {
+              "text": " Our tour will, in a literal sense, trace that path.",
+              "start": 735.5800170898438,
+              "end": 738.280029296875
+            },
+            {
+              "text": " From the battery where the Dutch stepped ashore and the British departed,",
+              "start": 738.6799926757812,
+              "end": 741.5999755859375
+            },
+            {
+              "text": " or up through Bowling Green and France's tavern, where rebels drank and planned along Wall Street,",
+              "start": 742.8400268554688,
+              "end": 748.4000244140625
+            },
+            {
+              "text": " where new ideals of liberty found footing in laws and ending at a place of memory and reckoning,",
+              "start": 748.6599731445312,
+              "end": 754.0599975585938
+            },
+            {
+              "text": " the African Burial Ground, reminding us that the freedom won in 1783 was incomplete",
+              "start": 754.6199951171875,
+              "end": 760.47998046875
+            },
+            {
+              "text": " and would be a work in progress.",
+              "start": 760.5999755859375,
+              "end": 762.6799926757812
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " By anchoring ourselves in 1780s New York, we anchor ourselves in a city amid rebirth.",
+              "start": 763.3599853515625,
+              "end": 768.9600219726562
+            },
+            {
+              "text": " Listen as we walk to how the sounds of modern New York—the taxi horns,",
+              "start": 770.0800170898438,
+              "end": 773.5399780273438
+            },
+            {
+              "text": " multitudes of languages, the hum of commerce—echo its colonial self.",
+              "start": 774.1400146484375,
+              "end": 777.9400024414062
+            },
+            {
+              "text": " Ships' horns in the harbor may replace the creak of a tall-masted frigate,",
+              "start": 778.760009765625,
+              "end": 781.9000244140625
+            },
+            {
+              "text": " but they signal the same thing.",
+              "start": 781.9000244140625,
+              "end": 783.6799926757812
+            },
+            {
+              "text": " New York City, then and now, is alive, important, and always changing.",
+              "start": 784.52001953125,
+              "end": 788.5
+            },
+            {
+              "text": " Let's go find those ghosts of revolution hiding in plain sight among the skyscrapers.",
+              "start": 788.9600219726562,
+              "end": 793.5399780273438
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Now we embark on Tour 1, Revolutionary New York.",
+              "start": 794.3200073242188,
+              "end": 797.6199951171875
+            },
+            {
+              "text": " Let's step out of the present and into the past,",
+              "start": 798.2999877929688,
+              "end": 800.4199829101562
+            },
+            {
+              "text": " one historic site at a time, to uncover how this city helped give birth to a nation.",
+              "start": 800.8400268554688,
+              "end": 805.239990234375
+            },
+            {
+              "text": " Our first stop, Battery Park, where New York's story and our tour begins.",
+              "start": 805.739990234375,
+              "end": 810.0599975585938
+            }
+          ]
+        }
+      ],
+      "audioUrl": "https://files.catbox.moe/22rjnj.mp3",
+      "coverImageUrl": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/pois/Frommers-New-York-City-Fraunces-Tavern-1190x768.webp?width=1200&height=630&quality=82&fit=cover&s=X10lUiazfaZzfUARus-g0XCem5zeYzRlGRElkZNZRok"
+    },
+    {
+      "id": "BCDFC392-A21B-4A12-A0DD-2C941EBC6821",
+      "waypointId": "BCDFC392-A21B-4A12-A0DD-2C941EBC6821",
+      "title": "Fraunces Tavern",
+      "paragraphs": [
+        {
+          "segments": [
+            {
+              "text": " We begin where New York began.",
+              "start": 0.0,
+              "end": 1.4199999570846558
+            },
+            {
+              "text": " Take a deep breath of the salt-tinged air",
+              "start": 2.5,
+              "end": 4.559999942779541
+            },
+            {
+              "text": " and imagine this scene,",
+              "start": 4.559999942779541,
+              "end": 5.820000171661377
+            },
+            {
+              "text": " not with towering glass buildings behind us,",
+              "start": 6.059999942779541,
+              "end": 8.4399995803833
+            },
+            {
+              "text": " but with a rough wooden fort and open horizon.",
+              "start": 8.600000381469727,
+              "end": 11.34000015258789
+            },
+            {
+              "text": " In 1624, Dutch ships sailed into this harbor",
+              "start": 12.0,
+              "end": 15.0600004196167
+            },
+            {
+              "text": " and founded New Amsterdam on this very tip of Manhattan.",
+              "start": 15.0600004196167,
+              "end": 18.059999465942383
+            },
+            {
+              "text": " Right about where we stand rose Fort Amsterdam,",
+              "start": 18.81999969482422,
+              "end": 21.100000381469727
+            },
+            {
+              "text": " later renamed Fort George by the British,",
+              "start": 21.5,
+              "end": 23.219999313354492
+            },
+            {
+              "text": " earth and timber walls armed with cannon,",
+              "start": 23.8799991607666,
+              "end": 25.760000228881836
+            },
+            {
+              "text": " guarding the fledgling colony.",
+              "start": 26.280000686645508,
+              "end": 27.360000610351562
+            },
+            {
+              "text": " It wasn't much, a handful of buildings,",
+              "start": 28.31999969482422,
+              "end": 31.059999465942383
+            },
+            {
+              "text": " a windmill, muddy paths,",
+              "start": 31.440000534057617,
+              "end": 32.959999084472656
+            },
+            {
+              "text": " but it set the blueprint for the global city to come.",
+              "start": 33.18000030517578,
+              "end": 35.84000015258789
+            },
+            {
+              "text": " Look out at the harbor.",
+              "start": 36.2599983215332,
+              "end": 36.900001525878906
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Today, you see the Statue of Liberty",
+              "start": 37.459999084472656,
+              "end": 39.31999969482422
+            },
+            {
+              "text": " on Liberty Island and Ellis Island beyond.",
+              "start": 39.31999969482422,
+              "end": 41.79999923706055
+            },
+            {
+              "text": " In colonial times, of course, no Lady Liberty yet.",
+              "start": 42.560001373291016,
+              "end": 45.20000076293945
+            },
+            {
+              "text": " Instead, imagine British warships",
+              "start": 45.880001068115234,
+              "end": 47.70000076293945
+            },
+            {
+              "text": " anchored out there in 1776,",
+              "start": 47.70000076293945,
+              "end": 49.779998779296875
+            },
+            {
+              "text": " their decks bristling with cannon aimed at the city.",
+              "start": 50.279998779296875,
+              "end": 52.540000915527344
+            },
+            {
+              "text": " The harbor was both lifeline and threat.",
+              "start": 52.97999954223633,
+              "end": 55.2400016784668
+            },
+            {
+              "text": " Through it came trade goods and immigrants.",
+              "start": 55.2400016784668,
+              "end": 57.720001220703125
+            },
+            {
+              "text": " Through it also came invading fleets.",
+              "start": 58.2599983215332,
+              "end": 60.040000915527344
+            },
+            {
+              "text": " Right behind us is Castle Clinton,",
+              "start": 60.5,
+              "end": 62.119998931884766
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " the circular sandstone fort.",
+              "start": 62.65999984741211,
+              "end": 64.19999694824219
+            },
+            {
+              "text": " It's actually a touch post-Revolution,",
+              "start": 64.66000366210938,
+              "end": 66.41999816894531
+            },
+            {
+              "text": " built 1808 to 1811 for the War of 1812,",
+              "start": 66.94000244140625,
+              "end": 69.9800033569336
+            },
+            {
+              "text": " but it speaks to this location's",
+              "start": 70.18000030517578,
+              "end": 72.22000122070312
+            },
+            {
+              "text": " eternal military importance.",
+              "start": 72.22000122070312,
+              "end": 73.69999694824219
+            },
+            {
+              "text": " During the Revolution, Fort George,",
+              "start": 74.55999755859375,
+              "end": 76.5
+            },
+            {
+              "text": " the earlier fort here, was a key British stronghold.",
+              "start": 76.76000213623047,
+              "end": 79.5
+            },
+            {
+              "text": " When the Redcoats evacuated in 1783,",
+              "start": 80.13999938964844,
+              "end": 82.63999938964844
+            },
+            {
+              "text": " it's from this vicinity that they departed.",
+              "start": 82.63999938964844,
+              "end": 84.95999908447266
+            },
+            {
+              "text": " It was on a flagpole here that John Van Arsdale",
+              "start": 86.54000091552734,
+              "end": 88.9800033569336
+            },
+            {
+              "text": " heroically climbed to rip down the British flag",
+              "start": 89.12000274658203,
+              "end": 91.73999786376953
+            },
+            {
+              "text": " and replace it with the stars and stripes on evacuation day.",
+              "start": 91.73999786376953,
+              "end": 95.41999816894531
+            },
+            {
+              "text": " Try to picture that moment,",
+              "start": 96.27999877929688,
+              "end": 97.33999633789062
+            },
+            {
+              "text": " a crowd packed around the ramparts,",
+              "start": 97.9000015258789,
+              "end": 99.68000030517578
+            },
+            {
+              "text": " Washington's army assembled,",
+              "start": 100.26000213623047,
+              "end": 101.26000213623047
+            },
+            {
+              "text": " watching Van Arsdale inching up a grease-slicked pole",
+              "start": 101.81999969482422,
+              "end": 104.4000015258789
+            },
+            {
+              "text": " to ensure everyone in New York",
+              "start": 104.41999816894531,
+              "end": 106.27999877929688
+            },
+            {
+              "text": " literally sees a new flag waving,",
+              "start": 106.41999816894531,
+              "end": 108.55999755859375
+            },
+            {
+              "text": " the symbol that a long occupation is over.",
+              "start": 108.95999908447266,
+              "end": 111.33999633789062
+            },
+            {
+              "text": " Many must have cried with joy or felt a shiver",
+              "start": 111.95999908447266,
+              "end": 115.13999938964844
+            },
+            {
+              "text": " as that flag unfurled in the November wind.",
+              "start": 115.13999938964844,
+              "end": 117.87999725341797
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Battery Park gets its name",
+              "start": 118.23999786376953,
+              "end": 119.55999755859375
+            },
+            {
+              "text": " because this was the battery of artillery for the fort.",
+              "start": 119.55999755859375,
+              "end": 122.27999877929688
+            },
+            {
+              "text": " You're standing on ground layered with history,",
+              "start": 122.83999633789062,
+              "end": 124.81999969482422
+            },
+            {
+              "text": " Dutch cannons, British cannons, then American.",
+              "start": 125.30000305175781,
+              "end": 127.63999938964844
+            },
+            {
+              "text": " During the colonial era, this was also a place of arrival.",
+              "start": 128.4600067138672,
+              "end": 131.94000244140625
+            },
+            {
+              "text": " The land gate of the city was up at Wall Street.",
+              "start": 132.82000732421875,
+              "end": 135.05999755859375
+            },
+            {
+              "text": " The water gate was here.",
+              "start": 135.74000549316406,
+              "end": 137.17999267578125
+            },
+            {
+              "text": " Picture newly arrived slaves from Africa",
+              "start": 137.89999389648438,
+              "end": 140.0800018310547
+            },
+            {
+              "text": " being led off ships here in the 1700s",
+              "start": 140.0800018310547,
+              "end": 142.63999938964844
+            },
+            {
+              "text": " to be sold at the open-air slave market",
+              "start": 142.63999938964844,
+              "end": 145.17999267578125
+            },
+            {
+              "text": " that existed in the 1700s near Wall Street.",
+              "start": 145.17999267578125,
+              "end": 148.33999633789062
+            },
+            {
+              "text": " Picture merchants like Alexander Hamilton,",
+              "start": 149.36000061035156,
+              "end": 151.10000610351562
+            },
+            {
+              "text": " before he was famous, coming ashore on a dinghy,",
+              "start": 151.4600067138672,
+              "end": 154.32000732421875
+            },
+            {
+              "text": " boots crunching on the pebbled shore.",
+              "start": 154.89999389648438,
+              "end": 156.39999389648438
+            },
+            {
+              "text": " By the late 18th century,",
+              "start": 157.0800018310547,
+              "end": 158.67999267578125
+            },
+            {
+              "text": " this would have been a hive of masts and sails,",
+              "start": 158.94000244140625,
+              "end": 161.47999572753906
+            },
+            {
+              "text": " the bustling port of New York,",
+              "start": 161.86000061035156,
+              "end": 163.25999450683594
+            },
+            {
+              "text": " third busiest in the British empire.",
+              "start": 163.82000732421875,
+              "end": 165.33999633789062
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " One haunting event, on September 15th, 1776,",
+              "start": 166.33999633789062,
+              "end": 170.27999877929688
+            },
+            {
+              "text": " after Washington's defeat in Brooklyn,",
+              "start": 170.75999450683594,
+              "end": 172.4600067138672
+            },
+            {
+              "text": " British forces landed at this very battery.",
+              "start": 173.05999755859375,
+              "end": 175.1199951171875
+            },
+            {
+              "text": " They set up cannon here",
+              "start": 176.05999755859375,
+              "end": 177.25999450683594
+            },
+            {
+              "text": " that effectively forced Washington's troops",
+              "start": 177.25999450683594,
+              "end": 179.27999877929688
+            },
+            {
+              "text": " to abandon Manhattan's southern half.",
+              "start": 179.27999877929688,
+              "end": 181.4199981689453
+            },
+            {
+              "text": " It was a swift occupation.",
+              "start": 182.3000030517578,
+              "end": 183.60000610351562
+            },
+            {
+              "text": " The British literally marched right through the gates",
+              "start": 184.25999450683594,
+              "end": 186.3000030517578
+            },
+            {
+              "text": " with bands playing God Save the King.",
+              "start": 186.3000030517578,
+              "end": 188.9600067138672
+            },
+            {
+              "text": " Some jubilant loyalists welcomed them.",
+              "start": 189.6999969482422,
+              "end": 191.63999938964844
+            },
+            {
+              "text": " Many patriots had already fled north.",
+              "start": 192.13999938964844,
+              "end": 194.0399932861328
+            },
+            {
+              "text": " One week later came the great fire uptown.",
+              "start": 194.0399932861328,
+              "end": 196.52000427246094
+            },
+            {
+              "text": " The British suspected rebel arsonists",
+              "start": 197.27999877929688,
+              "end": 198.9600067138672
+            },
+            {
+              "text": " and reportedly executed some on the spot.",
+              "start": 198.9600067138672,
+              "end": 201.10000610351562
+            },
+            {
+              "text": " So this ground saw terror and turmoil.",
+              "start": 201.6199951171875,
+              "end": 203.39999389648438
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Fast forward to the end of the war.",
+              "start": 204.5399932861328,
+              "end": 205.83999633789062
+            },
+            {
+              "text": " On November 25th, 1783,",
+              "start": 206.36000061035156,
+              "end": 208.44000244140625
+            },
+            {
+              "text": " General Washington entered New York in triumph,",
+              "start": 208.75999450683594,
+              "end": 210.97999572753906
+            },
+            {
+              "text": " coming down Broadway to the battery amid cheering crowds,",
+              "start": 211.6199951171875,
+              "end": 214.13999938964844
+            },
+            {
+              "text": " finally reclaiming the city.",
+              "start": 214.47999572753906,
+              "end": 215.74000549316406
+            },
+            {
+              "text": " There was an elaborate ceremony.",
+              "start": 216.8000030517578,
+              "end": 218.5399932861328
+            },
+            {
+              "text": " Legend has it that at the Francis Tavern,",
+              "start": 219.22000122070312,
+              "end": 221.02000427246094
+            },
+            {
+              "text": " our next stop, later that day,",
+              "start": 221.33999633789062,
+              "end": 222.94000244140625
+            },
+            {
+              "text": " an enormous roast ox was barbecued",
+              "start": 222.94000244140625,
+              "end": 225.36000061035156
+            },
+            {
+              "text": " and ale flowed freely to celebrate.",
+              "start": 225.36000061035156,
+              "end": 227.5
+            },
+            {
+              "text": " Down here at the battery,",
+              "start": 228.10000610351562,
+              "end": 228.82000732421875
+            },
+            {
+              "text": " I imagine an American sentry",
+              "start": 229.17999267578125,
+              "end": 230.97999572753906
+            },
+            {
+              "text": " proudly patrolling the fort's walls that night,",
+              "start": 231.0399932861328,
+              "end": 233.32000732421875
+            },
+            {
+              "text": " perhaps climbing up to where a British sentry",
+              "start": 233.82000732421875,
+              "end": 235.6999969482422
+            },
+            {
+              "text": " had stood the night before.",
+              "start": 235.6999969482422,
+              "end": 236.89999389648438
+            },
+            {
+              "text": " What a feeling that must have been.",
+              "start": 237.60000610351562,
+              "end": 239.02000427246094
+            },
+            {
+              "text": " Today, Battery Park is a peaceful place",
+              "start": 239.74000549316406,
+              "end": 242.0
+            },
+            {
+              "text": " with gardens and benches.",
+              "start": 242.0,
+              "end": 243.32000732421875
+            },
+            {
+              "text": " But pause and listen.",
+              "start": 243.5399932861328,
+              "end": 244.9199981689453
+            },
+            {
+              "text": " The lap of waves, distant boat horns.",
+              "start": 245.82000732421875,
+              "end": 248.22000122070312
+            },
+            {
+              "text": " Those same sounds were the backdrop to so much drama.",
+              "start": 249.02000427246094,
+              "end": 251.94000244140625
+            },
+            {
+              "text": " When we depart this spot,",
+              "start": 251.94000244140625,
+              "end": 253.63999938964844
+            },
+            {
+              "text": " consider that we're walking literally",
+              "start": 254.32000732421875,
+              "end": 255.6999969482422
+            },
+            {
+              "text": " in the footsteps of Washington's soldiers,",
+              "start": 255.6999969482422,
+              "end": 257.6600036621094
+            },
+            {
+              "text": " of Loyalist refugees evacuating with the Brits,",
+              "start": 258.4800109863281,
+              "end": 260.9200134277344
+            },
+            {
+              "text": " of Dutch settlers planting their flag.",
+              "start": 261.4200134277344,
+              "end": 263.260009765625
+            },
+            {
+              "text": " New York has always been about who controls this gateway.",
+              "start": 264.0,
+              "end": 266.44000244140625
+            },
+            {
+              "text": " As we head inland to Bowling Green,",
+              "start": 267.1600036621094,
+              "end": 268.739990234375
+            },
+            {
+              "text": " keep the harbor to your back",
+              "start": 269.17999267578125,
+              "end": 270.260009765625
+            },
+            {
+              "text": " and imagine you're a New Yorker in 1776",
+              "start": 270.260009765625,
+              "end": 273.2200012207031
+            },
+            {
+              "text": " watching those British warships.",
+              "start": 273.2799987792969,
+              "end": 274.8800048828125
+            },
+            {
+              "text": " Would you be fearful?",
+              "start": 275.760009765625,
+              "end": 276.6000061035156
+            },
+            {
+              "text": "",
+              "start": 277.6400146484375,
+              "end": 277.6400146484375
+            },
+            {
+              "text": " Perhaps both.",
+              "start": 278.70001220703125,
+              "end": 279.5
+            },
+            {
+              "text": " Like a 19-year-old artillery captain",
+              "start": 280.1000061035156,
+              "end": 282.1400146484375
+            },
+            {
+              "text": " named Alexander Hamilton,",
+              "start": 282.1400146484375,
+              "end": 283.3999938964844
+            },
+            {
+              "text": " who commanded a battery not far from here",
+              "start": 283.8999938964844,
+              "end": 285.9800109863281
+            },
+            {
+              "text": " and fired on British ships in the harbor",
+              "start": 285.9800109863281,
+              "end": 288.239990234375
+            },
+            {
+              "text": " before being outgunned.",
+              "start": 288.239990234375,
+              "end": 289.70001220703125
+            },
+            {
+              "text": " Young Hamilton's grit",
+              "start": 290.7799987792969,
+              "end": 291.8800048828125
+            },
+            {
+              "text": " in those opening salvos at the battery",
+              "start": 291.8800048828125,
+              "end": 294.1199951171875
+            },
+            {
+              "text": " hinted at the determination that would eventually prevail,",
+              "start": 294.1199951171875,
+              "end": 296.9800109863281
+            },
+            {
+              "text": " though it took seven more grueling years.",
+              "start": 297.4800109863281,
+              "end": 299.4800109863281
+            },
+            {
+              "text": " From this birthplace of New York,",
+              "start": 300.739990234375,
+              "end": 302.2200012207031
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " our journey begins,",
+              "start": 302.67999267578125,
+              "end": 303.70001220703125
+            },
+            {
+              "text": " moving now from nature and big picture warfare",
+              "start": 304.2200012207031,
+              "end": 306.5
+            },
+            {
+              "text": " to the street-level sites where events unfolded.",
+              "start": 306.5,
+              "end": 309.55999755859375
+            },
+            {
+              "text": " Our next stop is just up the road, Bowling Green,",
+              "start": 310.239990234375,
+              "end": 313.1600036621094
+            },
+            {
+              "text": " where that dramatic statue toppling we discussed took place.",
+              "start": 313.44000244140625,
+              "end": 316.3599853515625
+            },
+            {
+              "text": " Let's walk up Broadway,",
+              "start": 317.1600036621094,
+              "end": 318.05999755859375
+            },
+            {
+              "text": " following Washington's 1783 parade route in reverse",
+              "start": 318.8399963378906,
+              "end": 321.82000732421875
+            },
+            {
+              "text": " to the foot of Manhattan's oldest park.",
+              "start": 321.82000732421875,
+              "end": 324.1600036621094
+            }
+          ]
+        }
+      ],
+      "audioUrl": "https://files.catbox.moe/gojxir.mp3",
+      "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Frauncestavern.JPG"
+    },
+    {
+      "id": "7A9E1846-8CE9-4E56-8E05-D81B1971BF60",
+      "waypointId": "7A9E1846-8CE9-4E56-8E05-D81B1971BF60",
+      "title": "Bowling Green",
+      "paragraphs": [
+        {
+          "segments": [
+            {
+              "text": " Look around this little oval park, Bowling Green.",
+              "start": 0.0,
+              "end": 2.619999885559082
+            },
+            {
+              "text": " It's quaint, isn't it?",
+              "start": 3.440000057220459,
+              "end": 4.460000038146973
+            },
+            {
+              "text": " Green lawn, a tiered fountain, shade trees.",
+              "start": 5.0,
+              "end": 7.079999923706055
+            },
+            {
+              "text": " Hard to believe this spot was the site",
+              "start": 7.760000228881836,
+              "end": 9.140000343322754
+            },
+            {
+              "text": " of revolutionary mayhem one summer night in 1776.",
+              "start": 9.140000343322754,
+              "end": 12.319999694824219
+            },
+            {
+              "text": " But here we are, ground zero for one of New York's",
+              "start": 12.600000381469727,
+              "end": 15.460000038146973
+            },
+            {
+              "text": " most vivid rebellious acts,",
+              "start": 15.520000457763672,
+              "end": 17.100000381469727
+            },
+            {
+              "text": " the destruction of King George's statue.",
+              "start": 17.5,
+              "end": 19.6200008392334
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " First, context.",
+              "start": 21.15999984741211,
+              "end": 22.280000686645508
+            },
+            {
+              "text": " Bowling Green is New York's oldest public park,",
+              "start": 23.079999923706055,
+              "end": 25.299999237060547
+            },
+            {
+              "text": " established 1733 when the city council leased it",
+              "start": 25.8799991607666,
+              "end": 29.15999984741211
+            },
+            {
+              "text": " to some residents for one peppercorn a year,",
+              "start": 29.15999984741211,
+              "end": 31.600000381469727
+            },
+            {
+              "text": " a symbolic rent.",
+              "start": 32.08000183105469,
+              "end": 32.97999954223633
+            },
+            {
+              "text": " It was literally a bowling green for lawn bowling.",
+              "start": 33.81999969482422,
+              "end": 36.119998931884766
+            },
+            {
+              "text": " By the 1760s, it had become a fashionable promenade.",
+              "start": 36.939998626708984,
+              "end": 39.97999954223633
+            },
+            {
+              "text": " Imagine colonial gentlemen and ladies",
+              "start": 41.18000030517578,
+              "end": 42.86000061035156
+            },
+            {
+              "text": " strolling here on evenings,",
+              "start": 42.86000061035156,
+              "end": 44.36000061035156
+            },
+            {
+              "text": " catching the breeze off the harbor.",
+              "start": 44.68000030517578,
+              "end": 45.91999816894531
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " In 1770, the city fathers decided to erect a statue",
+              "start": 46.18000030517578,
+              "end": 49.91999816894531
+            },
+            {
+              "text": " to King George III right here",
+              "start": 49.91999816894531,
+              "end": 51.41999816894531
+            },
+            {
+              "text": " to honor the repeal of the Stamp Act",
+              "start": 51.459999084472656,
+              "end": 53.70000076293945
+            },
+            {
+              "text": " and the king's temporary favor.",
+              "start": 53.70000076293945,
+              "end": 55.70000076293945
+            },
+            {
+              "text": " The statue was impressive, an equestrian statue,",
+              "start": 56.65999984741211,
+              "end": 59.29999923706055
+            },
+            {
+              "text": " George III on horseback, larger than life,",
+              "start": 59.86000061035156,
+              "end": 62.36000061035156
+            },
+            {
+              "text": " cast in lead but gilded to shine like gold.",
+              "start": 63.119998931884766,
+              "end": 65.18000030517578
+            },
+            {
+              "text": " It stood roughly at the north end of the green,",
+              "start": 65.91999816894531,
+              "end": 67.95999908447266
+            },
+            {
+              "text": " about where that fountain is now.",
+              "start": 68.23999786376953,
+              "end": 69.91999816894531
+            },
+            {
+              "text": " They also erected this elegant fence",
+              "start": 70.30000305175781,
+              "end": 72.37999725341797
+            },
+            {
+              "text": " around the park to protect it.",
+              "start": 72.37999725341797,
+              "end": 73.81999969482422
+            },
+            {
+              "text": " Yes, the very fence you see here today",
+              "start": 74.33999633789062,
+              "end": 76.41999816894531
+            },
+            {
+              "text": " is the original 1771 wrought iron fence.",
+              "start": 76.41999816894531,
+              "end": 79.62000274658203
+            },
+            {
+              "text": " If you look closely at the fence finials,",
+              "start": 80.13999938964844,
+              "end": 82.31999969482422
+            },
+            {
+              "text": " those decorative crowns on the posts,",
+              "start": 82.5199966430664,
+              "end": 83.9800033569336
+            },
+            {
+              "text": " you'll notice something.",
+              "start": 84.13999938964844,
+              "end": 85.05999755859375
+            },
+            {
+              "text": " Many are missing or look broken.",
+              "start": 85.05999755859375,
+              "end": 87.45999908447266
+            },
+            {
+              "text": " That's not wear and tear, that's deliberate.",
+              "start": 88.19999694824219,
+              "end": 90.33999633789062
+            },
+            {
+              "text": " On July 9th, 1776, the patriots who tore down the statue",
+              "start": 91.44000244140625,
+              "end": 95.37999725341797
+            },
+            {
+              "text": " also sawed the crowns off this fence in their fury",
+              "start": 95.37999725341797,
+              "end": 98.0999984741211
+            },
+            {
+              "text": " as a symbolic snub to monarchy.",
+              "start": 98.0999984741211,
+              "end": 100.16000366210938
+            },
+            {
+              "text": " The fence literally bears scars of that night.",
+              "start": 101.19999694824219,
+              "end": 103.58000183105469
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Let me set the scene.",
+              "start": 104.22000122070312,
+              "end": 105.04000091552734
+            },
+            {
+              "text": " Hours after the declaration had been read",
+              "start": 105.86000061035156,
+              "end": 107.41999816894531
+            },
+            {
+              "text": " to the troops at the commons,",
+              "start": 107.41999816894531,
+              "end": 108.68000030517578
+            },
+            {
+              "text": " a mob of soldiers and Sons of Liberty types",
+              "start": 108.95999908447266,
+              "end": 111.33999633789062
+            },
+            {
+              "text": " marched down Broadway.",
+              "start": 111.33999633789062,
+              "end": 112.45999908447266
+            },
+            {
+              "text": " They were buzzing with the declaration's words,",
+              "start": 113.05999755859375,
+              "end": 115.18000030517578
+            },
+            {
+              "text": " all men are created equal, still ringing in their ears.",
+              "start": 115.73999786376953,
+              "end": 118.77999877929688
+            },
+            {
+              "text": " They came upon this park and that glinting statue",
+              "start": 118.9800033569336,
+              "end": 121.81999969482422
+            },
+            {
+              "text": " of King George III towering above.",
+              "start": 121.81999969482422,
+              "end": 124.30000305175781
+            },
+            {
+              "text": " Perhaps someone shouted, down with it.",
+              "start": 125.16000366210938,
+              "end": 127.5
+            },
+            {
+              "text": " In any case, ropes were procured,",
+              "start": 128.10000610351562,
+              "end": 129.9600067138672
+            },
+            {
+              "text": " maybe a ladder leaned against the horse.",
+              "start": 130.47999572753906,
+              "end": 132.1999969482422
+            },
+            {
+              "text": " There were loyalist onlookers too",
+              "start": 132.4199981689453,
+              "end": 134.6199951171875
+            },
+            {
+              "text": " and British soldiers quartered nearby.",
+              "start": 134.6199951171875,
+              "end": 136.4199981689453
+            },
+            {
+              "text": " It was a tense moment, but the patriots were beyond caring.",
+              "start": 136.74000549316406,
+              "end": 140.33999633789062
+            },
+            {
+              "text": " They heaved and tugged.",
+              "start": 140.94000244140625,
+              "end": 142.3800048828125
+            },
+            {
+              "text": " The lead statue groaned, then toppled,",
+              "start": 142.9600067138672,
+              "end": 145.22000122070312
+            },
+            {
+              "text": " smashing onto the ground,",
+              "start": 145.94000244140625,
+              "end": 146.6999969482422
+            },
+            {
+              "text": " presumably with a heavy thud and clatter.",
+              "start": 146.8800048828125,
+              "end": 148.8800048828125
+            },
+            {
+              "text": " The crowd let out an exultant roar.",
+              "start": 149.32000732421875,
+              "end": 151.22000122070312
+            },
+            {
+              "text": " They then went to work chopping the statue to pieces.",
+              "start": 151.6199951171875,
+              "end": 154.33999633789062
+            },
+            {
+              "text": " Reports say it was cut into 500-odd chunks",
+              "start": 155.05999755859375,
+              "end": 157.32000732421875
+            },
+            {
+              "text": " and shipped to Connecticut,",
+              "start": 157.32000732421875,
+              "end": 158.67999267578125
+            },
+            {
+              "text": " where some 42,000 bullets were cast from the metal.",
+              "start": 159.17999267578125,
+              "end": 162.5
+            },
+            {
+              "text": " Hence that quip, melted majesty.",
+              "start": 163.39999389648438,
+              "end": 165.63999938964844
+            },
+            {
+              "text": " King George's likeness literally shot back",
+              "start": 166.25999450683594,
+              "end": 168.77999877929688
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " at his own troops.",
+              "start": 168.77999877929688,
+              "end": 169.6199951171875
+            },
+            {
+              "text": " The head of the statue was cut off, paraded on a pike,",
+              "start": 170.17999267578125,
+              "end": 173.17999267578125
+            },
+            {
+              "text": " and legend says it was to be sent to London as a taunt.",
+              "start": 173.66000366210938,
+              "end": 176.3000030517578
+            },
+            {
+              "text": " But it disappeared, possibly hidden by loyalists.",
+              "start": 177.13999938964844,
+              "end": 180.0399932861328
+            },
+            {
+              "text": " In fact, fragments of the lead statue",
+              "start": 180.47999572753906,
+              "end": 182.27999877929688
+            },
+            {
+              "text": " have been dug up over the years.",
+              "start": 182.27999877929688,
+              "end": 183.82000732421875
+            },
+            {
+              "text": " One piece, an alloy foot,",
+              "start": 184.33999633789062,
+              "end": 186.0
+            },
+            {
+              "text": " resides at the New York Historical Society.",
+              "start": 186.72000122070312,
+              "end": 188.52000427246094
+            },
+            {
+              "text": " We're talking about a monument",
+              "start": 189.25999450683594,
+              "end": 190.8000030517578
+            },
+            {
+              "text": " that symbolized British rule",
+              "start": 190.8000030517578,
+              "end": 192.3800048828125
+            },
+            {
+              "text": " being literally annihilated in revolutionary zeal.",
+              "start": 192.3800048828125,
+              "end": 195.33999633789062
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Now as you stand here,",
+              "start": 196.0,
+              "end": 197.17999267578125
+            },
+            {
+              "text": " close your eyes and try to hear that chaos.",
+              "start": 197.17999267578125,
+              "end": 199.32000732421875
+            },
+            {
+              "text": " Cheers, metal clanging,",
+              "start": 200.36000061035156,
+              "end": 201.36000061035156
+            },
+            {
+              "text": " perhaps the splinter of wood from the pedestal.",
+              "start": 202.02000427246094,
+              "end": 204.33999633789062
+            },
+            {
+              "text": " Maybe the smell of smoke.",
+              "start": 204.5399932861328,
+              "end": 205.66000366210938
+            },
+            {
+              "text": " Some accounts say the crowd also burned",
+              "start": 206.27999877929688,
+              "end": 208.0
+            },
+            {
+              "text": " the king's coat of arms that hung nearby.",
+              "start": 208.0,
+              "end": 209.86000061035156
+            },
+            {
+              "text": " It was a cathartic and radical act.",
+              "start": 210.47999572753906,
+              "end": 212.5
+            },
+            {
+              "text": " And the fence you're touching?",
+              "start": 213.0,
+              "end": 214.89999389648438
+            },
+            {
+              "text": " Picture patriots using saws or files",
+              "start": 215.83999633789062,
+              "end": 217.6199951171875
+            },
+            {
+              "text": " to remove those decorative crowns.",
+              "start": 217.6199951171875,
+              "end": 219.39999389648438
+            },
+            {
+              "text": " They did that in the days following",
+              "start": 219.82000732421875,
+              "end": 221.22000122070312
+            },
+            {
+              "text": " to purge all royal symbols.",
+              "start": 221.22000122070312,
+              "end": 222.86000061035156
+            },
+            {
+              "text": " You can run your hand along the fence",
+              "start": 223.60000610351562,
+              "end": 225.66000366210938
+            },
+            {
+              "text": " and feel where some crown tips abruptly end.",
+              "start": 225.66000366210938,
+              "end": 228.39999389648438
+            },
+            {
+              "text": " Those are revolutionary amputations.",
+              "start": 229.0800018310547,
+              "end": 230.75999450683594
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " This spot also saw quieter history.",
+              "start": 231.72000122070312,
+              "end": 233.66000366210938
+            },
+            {
+              "text": " This was a parade ground",
+              "start": 234.13999938964844,
+              "end": 235.17999267578125
+            },
+            {
+              "text": " for British officers during occupation.",
+              "start": 235.17999267578125,
+              "end": 237.17999267578125
+            },
+            {
+              "text": " And interestingly, in 1783,",
+              "start": 237.83999633789062,
+              "end": 239.9199981689453
+            },
+            {
+              "text": " when the last British troops left,",
+              "start": 240.25999450683594,
+              "end": 242.0
+            },
+            {
+              "text": " they gathered at Bowling Green",
+              "start": 242.39999389648438,
+              "end": 243.77999877929688
+            },
+            {
+              "text": " before marching to the ships at the Battery.",
+              "start": 243.77999877929688,
+              "end": 246.10000610351562
+            },
+            {
+              "text": " So likely, British fife's and drums",
+              "start": 247.0,
+              "end": 249.02000427246094
+            },
+            {
+              "text": " played a farewell tune right on this square.",
+              "start": 249.02000427246094,
+              "end": 251.17999267578125
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Today, the park is often filled with office workers",
+              "start": 251.9600067138672,
+              "end": 254.77999877929688
+            },
+            {
+              "text": " lunching, or tourists lining up to photograph",
+              "start": 254.77999877929688,
+              "end": 257.3399963378906
+            },
+            {
+              "text": " the nearby charging bull statue,",
+              "start": 257.3399963378906,
+              "end": 259.1199951171875
+            },
+            {
+              "text": " that bronze bull at the north end,",
+              "start": 259.70001220703125,
+              "end": 261.3399963378906
+            },
+            {
+              "text": " a modern symbol of Wall Street's vigor.",
+              "start": 261.739990234375,
+              "end": 263.5799865722656
+            },
+            {
+              "text": " The irony, a new statue now stands where the old fell.",
+              "start": 264.0199890136719,
+              "end": 267.3999938964844
+            },
+            {
+              "text": " But this bull celebrates capitalism, not monarchy.",
+              "start": 267.94000244140625,
+              "end": 271.1199951171875
+            },
+            {
+              "text": " Perhaps a testament to how far Arca has come from kings.",
+              "start": 271.7200012207031,
+              "end": 274.4800109863281
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Take note of the imposing classical building",
+              "start": 275.1600036621094,
+              "end": 277.6000061035156
+            },
+            {
+              "text": " on the north side of the park.",
+              "start": 277.6000061035156,
+              "end": 279.1199951171875
+            },
+            {
+              "text": " That's the Alexander Hamilton US Custom House, built 1907.",
+              "start": 279.2200012207031,
+              "end": 283.67999267578125
+            },
+            {
+              "text": " It's named after Hamilton,",
+              "start": 283.67999267578125,
+              "end": 285.32000732421875
+            },
+            {
+              "text": " who ironically, as a king-hating young artillery officer,",
+              "start": 285.6000061035156,
+              "end": 288.44000244140625
+            },
+            {
+              "text": " might have been at this statue toppling.",
+              "start": 288.94000244140625,
+              "end": 290.739990234375
+            },
+            {
+              "text": " Some sources say Hamilton's artillery company",
+              "start": 291.5799865722656,
+              "end": 293.70001220703125
+            },
+            {
+              "text": " provided the ropes.",
+              "start": 293.70001220703125,
+              "end": 294.70001220703125
+            },
+            {
+              "text": " Decades later, as treasury secretary,",
+              "start": 295.3599853515625,
+              "end": 297.1199951171875
+            },
+            {
+              "text": " he oversaw customs here, hence the building name.",
+              "start": 297.3399963378906,
+              "end": 300.0199890136719
+            },
+            {
+              "text": " Hamilton's story, a fiery radical turned nation builder,",
+              "start": 301.260009765625,
+              "end": 304.7200012207031
+            },
+            {
+              "text": " is kind of encapsulated by this locale.",
+              "start": 304.8800048828125,
+              "end": 307.0199890136719
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " As we leave Bowling Green,",
+              "start": 307.55999755859375,
+              "end": 308.6600036621094
+            },
+            {
+              "text": " consider the two acts we've covered.",
+              "start": 309.2200012207031,
+              "end": 310.44000244140625
+            },
+            {
+              "text": " At Battery Park, a final raising of the American flag.",
+              "start": 311.0,
+              "end": 313.8599853515625
+            },
+            {
+              "text": " Here, an initial violent casting down of the British king.",
+              "start": 314.4800109863281,
+              "end": 317.260009765625
+            },
+            {
+              "text": " The revolution in New York had its bookends.",
+              "start": 318.1000061035156,
+              "end": 320.17999267578125
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " From here, we head a short walk east to Francis Tavern,",
+              "start": 320.9800109863281,
+              "end": 323.8399963378906
+            },
+            {
+              "text": " down on Pearl Street.",
+              "start": 324.44000244140625,
+              "end": 325.3800048828125
+            },
+            {
+              "text": " Back in 1776, if you stood here after the statue riot,",
+              "start": 326.05999755859375,
+              "end": 329.82000732421875
+            },
+            {
+              "text": " you might have heard distant tavern toasts",
+              "start": 330.44000244140625,
+              "end": 332.4599914550781
+            },
+            {
+              "text": " or the bustle of troops quartering for the night.",
+              "start": 332.4599914550781,
+              "end": 334.4599914550781
+            },
+            {
+              "text": " We're following them now",
+              "start": 334.8399963378906,
+              "end": 336.05999755859375
+            },
+            {
+              "text": " to one of the most storied taverns of all,",
+              "start": 336.05999755859375,
+              "end": 338.2200012207031
+            },
+            {
+              "text": " where revolutionaries gathered",
+              "start": 338.82000732421875,
+              "end": 340.17999267578125
+            },
+            {
+              "text": " and later where Washington said goodbye to his officers.",
+              "start": 340.17999267578125,
+              "end": 343.760009765625
+            },
+            {
+              "text": " Onward to Francis Tavern.",
+              "start": 344.8399963378906,
+              "end": 345.9200134277344
+            },
+            {
+              "text": " Keep an eye out for older looking brick buildings",
+              "start": 346.6400146484375,
+              "end": 348.739990234375
+            },
+            {
+              "text": " as we walk.",
+              "start": 348.739990234375,
+              "end": 349.6600036621094
+            },
+            {
+              "text": " We're entering some of the oldest streets of Manhattan,",
+              "start": 350.1199951171875,
+              "end": 352.79998779296875
+            },
+            {
+              "text": " where echoes of colonial New York are especially strong.",
+              "start": 353.260009765625,
+              "end": 356.4200134277344
+            }
+          ]
+        }
+      ],
+      "audioUrl": "https://files.catbox.moe/640zw7.mp3",
+      "coverImageUrl": "https://allthingsliberty.com/wp-content/uploads/2014/09/george3statue.jpg"
+    },
+    {
+      "id": "C4E5FE85-C242-47BE-B00F-D134EA7CD318",
+      "waypointId": "C4E5FE85-C242-47BE-B00F-D134EA7CD318",
+      "title": "Wall Street & Broad Street Corner",
+      "paragraphs": [
+        {
+          "segments": [
+            {
+              "text": " Behold France's tavern, part museum, part bar,",
+              "start": 0.0,
+              "end": 3.2799999713897705
+            },
+            {
+              "text": " and wholly a time machine to the 18th century.",
+              "start": 3.5999999046325684,
+              "end": 6.079999923706055
+            },
+            {
+              "text": " Doesn't it look like it's been plucked from colonial America",
+              "start": 6.800000190734863,
+              "end": 9.5
+            },
+            {
+              "text": " and dropped amid modern skyscrapers?",
+              "start": 9.5,
+              "end": 11.739999771118164
+            },
+            {
+              "text": " The gambrel roof, the dormer windows,",
+              "start": 12.119999885559082,
+              "end": 14.34000015258789
+            },
+            {
+              "text": " it's one of the few remaining pre-revolutionary buildings",
+              "start": 14.420000076293945,
+              "end": 17.31999969482422
+            },
+            {
+              "text": " in Manhattan built 1719 as a home.",
+              "start": 17.479999542236328,
+              "end": 20.360000610351562
+            },
+            {
+              "text": " Stepping inside is like stepping back 250 years.",
+              "start": 21.360000610351562,
+              "end": 24.239999771118164
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Now, why do we care about an old tavern?",
+              "start": 24.600000381469727,
+              "end": 26.81999969482422
+            },
+            {
+              "text": " Because in an era before Starbucks and Instagram,",
+              "start": 27.459999084472656,
+              "end": 30.059999465942383
+            },
+            {
+              "text": " taverns were the social networks.",
+              "start": 30.780000686645508,
+              "end": 32.08000183105469
+            },
+            {
+              "text": " Ideas ferment along with ale.",
+              "start": 32.880001068115234,
+              "end": 34.220001220703125
+            },
+            {
+              "text": " This tavern in particular was a hotbed of patriot activity",
+              "start": 34.880001068115234,
+              "end": 37.70000076293945
+            },
+            {
+              "text": " and later the site of a famous emotional farewell.",
+              "start": 37.70000076293945,
+              "end": 40.540000915527344
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " First, a bit of history.",
+              "start": 41.439998626708984,
+              "end": 42.91999816894531
+            },
+            {
+              "text": " The building was originally a mansion",
+              "start": 43.540000915527344,
+              "end": 44.86000061035156
+            },
+            {
+              "text": " of the Delancey family, wealthy Huguenot merchants.",
+              "start": 44.86000061035156,
+              "end": 47.65999984741211
+            },
+            {
+              "text": " In 1762, Samuel Frances, a West Indies-born free black",
+              "start": 48.65999984741211,
+              "end": 53.040000915527344
+            },
+            {
+              "text": " or mixed race man, often called Black Sam,",
+              "start": 53.040000915527344,
+              "end": 55.84000015258789
+            },
+            {
+              "text": " bought it and turned it into the Queen's Head Tavern.",
+              "start": 55.84000015258789,
+              "end": 58.619998931884766
+            },
+            {
+              "text": " It quickly became popular with the elite",
+              "start": 59.63999938964844,
+              "end": 61.540000915527344
+            },
+            {
+              "text": " and political groups.",
+              "start": 61.540000915527344,
+              "end": 62.65999984741211
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " In the lead up to war, the Sons of Liberty met here.",
+              "start": 63.08000183105469,
+              "end": 65.9000015258789
+            },
+            {
+              "text": " Picture the long room upstairs filled with smoke",
+              "start": 66.62000274658203,
+              "end": 69.12000274658203
+            },
+            {
+              "text": " and animated whispers.",
+              "start": 69.12000274658203,
+              "end": 70.23999786376953
+            },
+            {
+              "text": " In 1768, the New York Chamber of Commerce",
+              "start": 71.30000305175781,
+              "end": 74.22000122070312
+            },
+            {
+              "text": " was founded by a meeting here.",
+              "start": 74.22000122070312,
+              "end": 75.81999969482422
+            },
+            {
+              "text": " And there's an account of 1774",
+              "start": 76.08000183105469,
+              "end": 78.23999786376953
+            },
+            {
+              "text": " where locals forced a British naval captain",
+              "start": 78.23999786376953,
+              "end": 81.08000183105469
+            },
+            {
+              "text": " to apologize here for trying to bring tea into port,",
+              "start": 81.08000183105469,
+              "end": 84.58000183105469
+            },
+            {
+              "text": " echoing the tea crisis.",
+              "start": 84.58000183105469,
+              "end": 86.13999938964844
+            },
+            {
+              "text": " That apology took place likely right in the main bear room",
+              "start": 87.04000091552734,
+              "end": 89.9000015258789
+            },
+            {
+              "text": " under the stern glares of patriots",
+              "start": 89.9000015258789,
+              "end": 92.23999786376953
+            },
+            {
+              "text": " ready to dump the tea themselves.",
+              "start": 92.23999786376953,
+              "end": 94.19999694824219
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " During the war, when the British occupied the city,",
+              "start": 94.69999694824219,
+              "end": 97.0
+            },
+            {
+              "text": " Frances Tavern interestingly hosted British officers' dinners",
+              "start": 97.62000274658203,
+              "end": 100.23999786376953
+            },
+            {
+              "text": " as it was a fine establishment,",
+              "start": 100.23999786376953,
+              "end": 101.86000061035156
+            },
+            {
+              "text": " but Frances himself was a patriot sympathizer.",
+              "start": 102.54000091552734,
+              "end": 105.04000091552734
+            },
+            {
+              "text": " There's a story, somewhat romanticized,",
+              "start": 105.83999633789062,
+              "end": 108.16000366210938
+            },
+            {
+              "text": " that in 1780, Frances helped uncover",
+              "start": 108.63999938964844,
+              "end": 111.5
+            },
+            {
+              "text": " the Benedict Arnold John André conspiracy",
+              "start": 111.5,
+              "end": 114.27999877929688
+            },
+            {
+              "text": " by overhearing toasts to Arnold's treason in the tavern",
+              "start": 114.27999877929688,
+              "end": 117.5999984741211
+            },
+            {
+              "text": " and alerting authorities.",
+              "start": 117.5999984741211,
+              "end": 119.16000366210938
+            },
+            {
+              "text": " True or not, it underscores that these walls have ears",
+              "start": 119.94000244140625,
+              "end": 123.08000183105469
+            },
+            {
+              "text": " and these ale benches have seen treachery and heroism alike.",
+              "start": 123.08000183105469,
+              "end": 126.72000122070312
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Now, to its most famous moment, December 4th, 1783.",
+              "start": 127.12000274658203,
+              "end": 131.5399932861328
+            },
+            {
+              "text": " The Revolutionary War is won.",
+              "start": 132.16000366210938,
+              "end": 133.75999450683594
+            },
+            {
+              "text": " British are gone, as of NAV 25.",
+              "start": 134.4199981689453,
+              "end": 136.4199981689453
+            },
+            {
+              "text": " General George Washington invites his officers here",
+              "start": 136.9199981689453,
+              "end": 139.1199951171875
+            },
+            {
+              "text": " for a farewell dinner before he resigns his commission",
+              "start": 139.1199951171875,
+              "end": 141.5399932861328
+            },
+            {
+              "text": " and heads home.",
+              "start": 141.5399932861328,
+              "end": 142.33999633789062
+            },
+            {
+              "text": " Upstairs in the long room, you can visit it.",
+              "start": 142.9199981689453,
+              "end": 144.9199981689453
+            },
+            {
+              "text": " It's reconstructed as a museum exhibit.",
+              "start": 145.0800018310547,
+              "end": 146.77999877929688
+            },
+            {
+              "text": " They assembled.",
+              "start": 147.22000122070312,
+              "end": 147.60000610351562
+            },
+            {
+              "text": " Imagine the scene, candlelight flickering",
+              "start": 148.6999969482422,
+              "end": 150.74000549316406
+            },
+            {
+              "text": " on the faces of men like Knox, Green, and Tallmadge.",
+              "start": 150.74000549316406,
+              "end": 154.24000549316406
+            },
+            {
+              "text": " They've shared harrowing battles from Brooklyn to Yorktown.",
+              "start": 154.86000061035156,
+              "end": 157.52000427246094
+            },
+            {
+              "text": " Washington arrives a bit late, wearing a plain blue uniform.",
+              "start": 158.5,
+              "end": 161.3000030517578
+            },
+            {
+              "text": " They dine, likely on a lavish turtle feast.",
+              "start": 161.75999450683594,
+              "end": 164.3800048828125
+            },
+            {
+              "text": " Turtle soup was very fashionable,",
+              "start": 164.97999572753906,
+              "end": 166.27999877929688
+            },
+            {
+              "text": " punch and wine flowing.",
+              "start": 166.72000122070312,
+              "end": 167.75999450683594
+            },
+            {
+              "text": " After dinner, Washington stands with a glass.",
+              "start": 167.75999450683594,
+              "end": 170.25999450683594
+            },
+            {
+              "text": " He raises it and says, as recorded later,",
+              "start": 170.74000549316406,
+              "end": 172.89999389648438
+            },
+            {
+              "text": " with a heart full of love and gratitude,",
+              "start": 173.44000244140625,
+              "end": 175.24000549316406
+            },
+            {
+              "text": " I now take leave of you.",
+              "start": 175.6199951171875,
+              "end": 176.83999633789062
+            },
+            {
+              "text": " His voice trembles.",
+              "start": 177.55999755859375,
+              "end": 178.4600067138672
+            },
+            {
+              "text": " Not an eye is dry.",
+              "start": 179.1199951171875,
+              "end": 180.1199951171875
+            },
+            {
+              "text": " He then does something profound.",
+              "start": 180.6999969482422,
+              "end": 181.97999572753906
+            },
+            {
+              "text": " He goes to each man one by one,",
+              "start": 182.75999450683594,
+              "end": 184.52000427246094
+            },
+            {
+              "text": " clasps their hand or embraces them,",
+              "start": 185.05999755859375,
+              "end": 186.5
+            },
+            {
+              "text": " even kisses some on the cheek,",
+              "start": 186.8000030517578,
+              "end": 188.13999938964844
+            },
+            {
+              "text": " a very emotional gesture in that era.",
+              "start": 188.17999267578125,
+              "end": 190.5800018310547
+            },
+            {
+              "text": " Witnesses said there wasn't a sound except sobs.",
+              "start": 191.4199981689453,
+              "end": 193.89999389648438
+            },
+            {
+              "text": " This was more than a military farewell.",
+              "start": 194.3800048828125,
+              "end": 196.27999877929688
+            },
+            {
+              "text": " It was Washington symbolically parting with power",
+              "start": 196.27999877929688,
+              "end": 199.67999267578125
+            },
+            {
+              "text": " and affirming civilian supremacy.",
+              "start": 199.67999267578125,
+              "end": 201.67999267578125
+            },
+            {
+              "text": " In that moment, the tavern wasn't just a pub.",
+              "start": 202.33999633789062,
+              "end": 205.10000610351562
+            },
+            {
+              "text": " It was hallowed ground for the new nation.",
+              "start": 205.44000244140625,
+              "end": 207.16000366210938
+            },
+            {
+              "text": " I like to point out this humility",
+              "start": 207.66000366210938,
+              "end": 210.16000366210938
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " and genuine affection Washington showed",
+              "start": 210.16000366210938,
+              "end": 212.5399932861328
+            },
+            {
+              "text": " earned him even more reverence.",
+              "start": 212.5399932861328,
+              "end": 214.3800048828125
+            },
+            {
+              "text": " Some officers might have thought of a coup.",
+              "start": 215.3800048828125,
+              "end": 217.05999755859375
+            },
+            {
+              "text": " There were whispers of discontent at not being paid,",
+              "start": 217.52000427246094,
+              "end": 219.97999572753906
+            },
+            {
+              "text": " but seeing Washington's example,",
+              "start": 220.1999969482422,
+              "end": 222.0399932861328
+            },
+            {
+              "text": " relinquishing command to Congress,",
+              "start": 223.0,
+              "end": 224.3000030517578
+            },
+            {
+              "text": " quashed any such notion.",
+              "start": 224.3000030517578,
+              "end": 225.89999389648438
+            },
+            {
+              "text": " In a way, American democracy was strengthened",
+              "start": 226.86000061035156,
+              "end": 229.0399932861328
+            },
+            {
+              "text": " in the Francis Tavern Long Room that night.",
+              "start": 229.0399932861328,
+              "end": 231.16000366210938
+            },
+            {
+              "text": " Feel the bricks of the building.",
+              "start": 232.22000122070312,
+              "end": 233.33999633789062
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " They're not original.",
+              "start": 233.86000061035156,
+              "end": 234.6199951171875
+            },
+            {
+              "text": " The building's been altered and restored multiple times,",
+              "start": 235.13999938964844,
+              "end": 237.86000061035156
+            },
+            {
+              "text": " most significantly in 1907 by the Sons of the Revolution,",
+              "start": 238.3000030517578,
+              "end": 241.5399932861328
+            },
+            {
+              "text": " but parts of the foundation and structure are.",
+              "start": 242.10000610351562,
+              "end": 244.5800018310547
+            },
+            {
+              "text": " Inside, the timber framing",
+              "start": 245.4199981689453,
+              "end": 246.5399932861328
+            },
+            {
+              "text": " and some floorboards are original.",
+              "start": 246.5399932861328,
+              "end": 248.5800018310547
+            },
+            {
+              "text": " If you go in the bar today,",
+              "start": 248.89999389648438,
+              "end": 250.60000610351562
+            },
+            {
+              "text": " you can actually order an old George Washington's rye",
+              "start": 250.60000610351562,
+              "end": 254.39999389648438
+            },
+            {
+              "text": " or some colonial-style ales,",
+              "start": 254.39999389648438,
+              "end": 256.3999938964844
+            },
+            {
+              "text": " raising a glass to those who toasted liberty here long ago.",
+              "start": 257.0400085449219,
+              "end": 259.8999938964844
+            },
+            {
+              "text": " Also think, in 1785 to 1789,",
+              "start": 261.1600036621094,
+              "end": 264.0
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " New York was the seat of Congress under the Articles",
+              "start": 264.3599853515625,
+              "end": 266.760009765625
+            },
+            {
+              "text": " and then the first Capitol.",
+              "start": 266.760009765625,
+              "end": 268.44000244140625
+            },
+            {
+              "text": " That means figures like John Adams,",
+              "start": 268.9800109863281,
+              "end": 270.8399963378906
+            },
+            {
+              "text": " James Madison, et cetera, were around.",
+              "start": 271.260009765625,
+              "end": 273.0799865722656
+            },
+            {
+              "text": " Francis Tavern remained a high-profile gathering spot.",
+              "start": 273.5400085449219,
+              "end": 276.4800109863281
+            },
+            {
+              "text": " President Washington even held a banquet here in 1789",
+              "start": 277.32000732421875,
+              "end": 280.4200134277344
+            },
+            {
+              "text": " for the inauguration anniversary.",
+              "start": 280.4200134277344,
+              "end": 282.20001220703125
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Now it sits dwarfed by skyscrapers.",
+              "start": 283.17999267578125,
+              "end": 285.0799865722656
+            },
+            {
+              "text": " See one Wall Street court across",
+              "start": 285.5199890136719,
+              "end": 286.9800109863281
+            },
+            {
+              "text": " with its coppery-clad facade and modern offices.",
+              "start": 286.9800109863281,
+              "end": 289.8599853515625
+            },
+            {
+              "text": " But Francis Tavern stands out, a colonial gem.",
+              "start": 290.5799865722656,
+              "end": 293.67999267578125
+            },
+            {
+              "text": " It's miraculous it survived.",
+              "start": 294.2200012207031,
+              "end": 295.70001220703125
+            },
+            {
+              "text": " It was nearly demolished in the 1900s",
+              "start": 296.17999267578125,
+              "end": 298.260009765625
+            },
+            {
+              "text": " before preservationists saved it.",
+              "start": 298.260009765625,
+              "end": 299.94000244140625
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " One can almost hear ghostly laughter and clinking glasses",
+              "start": 300.67999267578125,
+              "end": 304.0199890136719
+            },
+            {
+              "text": " if you listen hard on a quiet morning.",
+              "start": 304.0199890136719,
+              "end": 306.2200012207031
+            },
+            {
+              "text": " Maybe even strains of Yankee Doodle,",
+              "start": 306.8399963378906,
+              "end": 308.7200012207031
+            },
+            {
+              "text": " reportedly the first public sing-along of Yankee Doodle,",
+              "start": 308.7200012207031,
+              "end": 311.8800048828125
+            },
+            {
+              "text": " happened here spontaneously",
+              "start": 312.5,
+              "end": 313.7200012207031
+            },
+            {
+              "text": " when news of the peace treaty arrived.",
+              "start": 313.7200012207031,
+              "end": 315.7799987792969
+            },
+            {
+              "text": " Men stood on tables singing that cheeky tune",
+              "start": 316.79998779296875,
+              "end": 318.7799987792969
+            },
+            {
+              "text": " that British had used to mock Americans,",
+              "start": 318.7799987792969,
+              "end": 320.6600036621094
+            },
+            {
+              "text": " now claimed as a badge of honor.",
+              "start": 321.2200012207031,
+              "end": 322.739990234375
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " We won't go into the museum due to time,",
+              "start": 323.82000732421875,
+              "end": 326.260009765625
+            },
+            {
+              "text": " but I encourage you to visit.",
+              "start": 326.6199951171875,
+              "end": 327.70001220703125
+            },
+            {
+              "text": " You'll see Washington's dentures.",
+              "start": 328.3599853515625,
+              "end": 329.8800048828125
+            },
+            {
+              "text": " Just kidding.",
+              "start": 330.260009765625,
+              "end": 330.8800048828125
+            },
+            {
+              "text": " But there are some period muskets, portraits,",
+              "start": 331.0799865722656,
+              "end": 333.6199951171875
+            },
+            {
+              "text": " and pieces of the statue of King George.",
+              "start": 333.9800109863281,
+              "end": 335.9800109863281
+            },
+            {
+              "text": " They also display the famous painting",
+              "start": 336.5400085449219,
+              "end": 338.44000244140625
+            },
+            {
+              "text": " of Washington's farewell by Alonzo Chappell.",
+              "start": 338.44000244140625,
+              "end": 341.760009765625
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Our journey now will pivot from revolutionary camaraderie",
+              "start": 342.29998779296875,
+              "end": 345.4800109863281
+            },
+            {
+              "text": " to the forging of the new government.",
+              "start": 345.4800109863281,
+              "end": 347.2200012207031
+            },
+            {
+              "text": " We'll walk a few blocks northwest",
+              "start": 348.29998779296875,
+              "end": 349.9200134277344
+            },
+            {
+              "text": " to Federal Hall on Wall Street,",
+              "start": 349.9200134277344,
+              "end": 351.6199951171875
+            },
+            {
+              "text": " where Washington took the oath of office in 1789",
+              "start": 352.05999755859375,
+              "end": 355.05999755859375
+            },
+            {
+              "text": " and where the U.S. Congress first met.",
+              "start": 355.05999755859375,
+              "end": 357.239990234375
+            },
+            {
+              "text": " It's amazing.",
+              "start": 357.5199890136719,
+              "end": 358.5199890136719
+            },
+            {
+              "text": " We go from a tavern where he said goodbye in 83",
+              "start": 359.0199890136719,
+              "end": 361.5199890136719
+            },
+            {
+              "text": " to the exact spot he assumed the presidency six years later.",
+              "start": 361.5199890136719,
+              "end": 365.17999267578125
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " As we walk through these narrow streets,",
+              "start": 365.82000732421875,
+              "end": 367.79998779296875
+            },
+            {
+              "text": " Stone Street, maybe through Broad Street,",
+              "start": 368.4599914550781,
+              "end": 369.9599914550781
+            },
+            {
+              "text": " note how they twist.",
+              "start": 370.70001220703125,
+              "end": 371.6199951171875
+            },
+            {
+              "text": " These are the original Dutch lanes, not the grid.",
+              "start": 372.5,
+              "end": 374.9599914550781
+            },
+            {
+              "text": " Pearl Street, where we are now, was the original shoreline,",
+              "start": 376.1400146484375,
+              "end": 378.67999267578125
+            },
+            {
+              "text": " hence some oyster shells and the soil gave it its name.",
+              "start": 379.29998779296875,
+              "end": 381.70001220703125
+            },
+            {
+              "text": " So we're in the oldest parts of the city.",
+              "start": 382.6000061035156,
+              "end": 384.44000244140625
+            },
+            {
+              "text": " Wall Street up ahead was the northern boundary",
+              "start": 385.2200012207031,
+              "end": 387.67999267578125
+            },
+            {
+              "text": " of New York in the 1600s,",
+              "start": 387.67999267578125,
+              "end": 390.0400085449219
+            },
+            {
+              "text": " marked by a palisade against possible attacks.",
+              "start": 390.44000244140625,
+              "end": 392.79998779296875
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Let's raise an imaginary glass to Francis Tavern,",
+              "start": 393.5199890136719,
+              "end": 396.20001220703125
+            },
+            {
+              "text": " a place of both rabble-rousing and heartfelt goodbyes,",
+              "start": 396.8599853515625,
+              "end": 399.8999938964844
+            },
+            {
+              "text": " and continue on to where the United States",
+              "start": 400.44000244140625,
+              "end": 402.3800048828125
+            },
+            {
+              "text": " really took shape, Federal Hall.",
+              "start": 402.3800048828125,
+              "end": 404.6000061035156
+            }
+          ]
+        }
+      ],
+      "audioUrl": "https://files.catbox.moe/y3o30p.mp3",
+      "coverImageUrl": "https://nypost.com/wp-content/uploads/sites/2/2018/05/wall-broad-street-signs.jpg?quality=75&strip=all"
+    },
+    {
+      "id": "C4709596-AA48-4E26-96BC-659DE05215C0",
+      "waypointId": "C4709596-AA48-4E26-96BC-659DE05215C0",
+      "title": "Federal Hall",
+      "paragraphs": [
+        {
+          "segments": [
+            {
+              "text": " Here we are at Federal Hall, or at least the site of it.",
+              "start": 0.0,
+              "end": 2.9800000190734863
+            },
+            {
+              "text": " The building you see with the tall columns and pediment",
+              "start": 3.5199999809265137,
+              "end": 6.980000019073486
+            },
+            {
+              "text": " is actually the Custom House built in 1842,",
+              "start": 7.019999980926514,
+              "end": 10.399999618530273
+            },
+            {
+              "text": " but it sits on hallowed ground.",
+              "start": 10.9399995803833,
+              "end": 12.5600004196167
+            },
+            {
+              "text": " The original Federal Hall,",
+              "start": 13.319999694824219,
+              "end": 14.5
+            },
+            {
+              "text": " formerly New York's Colonial City Hall,",
+              "start": 15.039999961853027,
+              "end": 16.899999618530273
+            },
+            {
+              "text": " stood here from the 1690s until it was torn down in 1812.",
+              "start": 17.780000686645508,
+              "end": 21.799999237060547
+            },
+            {
+              "text": " And it was within that original building",
+              "start": 22.3799991607666,
+              "end": 24.1200008392334
+            },
+            {
+              "text": " that some of the most significant events",
+              "start": 24.1200008392334,
+              "end": 26.15999984741211
+            },
+            {
+              "text": " in early U.S. history happened.",
+              "start": 26.15999984741211,
+              "end": 27.84000015258789
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Picture April 30th, 1789.",
+              "start": 28.520000457763672,
+              "end": 30.979999542236328
+            },
+            {
+              "text": " George Washington stands on a balcony",
+              "start": 32.0,
+              "end": 33.68000030517578
+            },
+            {
+              "text": " of the second floor of Federal Hall,",
+              "start": 33.68000030517578,
+              "end": 35.540000915527344
+            },
+            {
+              "text": " right about where this statue now marks.",
+              "start": 36.0,
+              "end": 37.7599983215332
+            },
+            {
+              "text": " He's just taken the oath of office",
+              "start": 38.380001068115234,
+              "end": 39.900001525878906
+            },
+            {
+              "text": " as the first president of the United States,",
+              "start": 39.900001525878906,
+              "end": 41.959999084472656
+            },
+            {
+              "text": " swearing on a Bible held by Chancellor Robert Livingston.",
+              "start": 42.52000045776367,
+              "end": 45.380001068115234
+            },
+            {
+              "text": " A huge crowd below on Wall and Broad Street",
+              "start": 45.880001068115234,
+              "end": 48.540000915527344
+            },
+            {
+              "text": " erupts in cheers the moment he says,",
+              "start": 48.540000915527344,
+              "end": 50.540000915527344
+            },
+            {
+              "text": " \"'I swear, so help me God.'\"",
+              "start": 50.65999984741211,
+              "end": 52.900001525878906
+            },
+            {
+              "text": " Cannons boom in celebration.",
+              "start": 52.900001525878906,
+              "end": 54.619998931884766
+            },
+            {
+              "text": " Church bells ring wildly across the city.",
+              "start": 54.619998931884766,
+              "end": 57.2599983215332
+            },
+            {
+              "text": " The bronze statue of Washington, erected 1883,",
+              "start": 58.08000183105469,
+              "end": 61.02000045776367
+            },
+            {
+              "text": " immortalizes that exact moment.",
+              "start": 61.31999969482422,
+              "end": 62.900001525878906
+            },
+            {
+              "text": " He even gestures as if taking an oath.",
+              "start": 63.34000015258789,
+              "end": 65.33999633789062
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Look down at the stone beneath the statue.",
+              "start": 66.0199966430664,
+              "end": 68.0199966430664
+            },
+            {
+              "text": " Supposedly, that is the stone from the old balcony",
+              "start": 68.4800033569336,
+              "end": 71.0
+            },
+            {
+              "text": " where he stood.",
+              "start": 71.0,
+              "end": 71.76000213623047
+            },
+            {
+              "text": " You're literally at ground zero of the American presidency.",
+              "start": 73.0,
+              "end": 76.05999755859375
+            },
+            {
+              "text": " And it happened not in D.C. or Philadelphia,",
+              "start": 76.41999816894531,
+              "end": 78.91999816894531
+            },
+            {
+              "text": " but New York City, something many Americans forget.",
+              "start": 79.18000030517578,
+              "end": 82.08000183105469
+            },
+            {
+              "text": " Congress had picked New York as the temporary capital.",
+              "start": 82.63999938964844,
+              "end": 85.23999786376953
+            },
+            {
+              "text": " They met here in what we call the First Federal Congress,",
+              "start": 86.16000366210938,
+              "end": 88.9800033569336
+            },
+            {
+              "text": " 1789 to 1790, writing the Bill of Rights",
+              "start": 89.55999755859375,
+              "end": 92.63999938964844
+            },
+            {
+              "text": " and setting up the judiciary.",
+              "start": 92.63999938964844,
+              "end": 94.22000122070312
+            },
+            {
+              "text": " In the same building, the First Supreme Court sat,",
+              "start": 94.95999908447266,
+              "end": 97.73999786376953
+            },
+            {
+              "text": " though they had little to do initially.",
+              "start": 98.16000366210938,
+              "end": 99.4800033569336
+            },
+            {
+              "text": " And at this site earlier,",
+              "start": 99.9800033569336,
+              "end": 101.19999694824219
+            },
+            {
+              "text": " under the Articles of Confederation,",
+              "start": 101.4000015258789,
+              "end": 102.94000244140625
+            },
+            {
+              "text": " the Continental Congress had convened in 1785,",
+              "start": 103.30000305175781,
+              "end": 106.55999755859375
+            },
+            {
+              "text": " ratifying the Northwest Ordinance, et cetera.",
+              "start": 106.94000244140625,
+              "end": 109.27999877929688
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Back up.",
+              "start": 110.16000366210938,
+              "end": 110.81999969482422
+            },
+            {
+              "text": " This place was politically important",
+              "start": 111.22000122070312,
+              "end": 112.86000061035156
+            },
+            {
+              "text": " even before U.S. independence.",
+              "start": 112.86000061035156,
+              "end": 114.76000213623047
+            },
+            {
+              "text": " The original city hall here",
+              "start": 115.4000015258789,
+              "end": 116.86000061035156
+            },
+            {
+              "text": " saw the trial of John Peter Zenger in 1735,",
+              "start": 116.86000061035156,
+              "end": 120.0
+            },
+            {
+              "text": " a pivotal freedom of the press case.",
+              "start": 120.30000305175781,
+              "end": 122.0999984741211
+            },
+            {
+              "text": " It's where the Stamp Act Congress met in 1765,",
+              "start": 122.54000091552734,
+              "end": 125.31999969482422
+            },
+            {
+              "text": " arguably the first united colonial action against Britain.",
+              "start": 125.95999908447266,
+              "end": 128.94000244140625
+            },
+            {
+              "text": " So it's long been a stage for big ideas.",
+              "start": 129.5,
+              "end": 131.9600067138672
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Now, the current Greek Revival building,",
+              "start": 132.27999877929688,
+              "end": 134.75999450683594
+            },
+            {
+              "text": " with its eight massive Doric columns,",
+              "start": 135.33999633789062,
+              "end": 137.10000610351562
+            },
+            {
+              "text": " ironically, it was built as a U.S. custom house",
+              "start": 137.10000610351562,
+              "end": 139.83999633789062
+            },
+            {
+              "text": " to collect import taxes, designed by Town and Davis.",
+              "start": 139.83999633789062,
+              "end": 142.77999877929688
+            },
+            {
+              "text": " That's why it looks like a temple,",
+              "start": 143.5399932861328,
+              "end": 144.97999572753906
+            },
+            {
+              "text": " to impart civic virtue to the commerce of the young nation.",
+              "start": 145.5,
+              "end": 148.33999633789062
+            },
+            {
+              "text": " And after 1862, it became a sub-treasury,",
+              "start": 148.67999267578125,
+              "end": 151.83999633789062
+            },
+            {
+              "text": " where at one point, 70% of the nation's wealth",
+              "start": 152.4600067138672,
+              "end": 154.8800048828125
+            },
+            {
+              "text": " in gold bullion was stored in its vaults.",
+              "start": 154.8800048828125,
+              "end": 157.0800018310547
+            },
+            {
+              "text": " In 1869, people literally stormed it",
+              "start": 158.3000030517578,
+              "end": 161.13999938964844
+            },
+            {
+              "text": " during the panic, Black Friday gold panic,",
+              "start": 161.13999938964844,
+              "end": 163.4199981689453
+            },
+            {
+              "text": " trying to get to the vault, but guards held them off.",
+              "start": 163.83999633789062,
+              "end": 166.5800018310547
+            },
+            {
+              "text": " So these steps have seen financial drama, too.",
+              "start": 167.10000610351562,
+              "end": 169.9199981689453
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " On these steps in 1884,",
+              "start": 170.27999877929688,
+              "end": 171.89999389648438
+            },
+            {
+              "text": " they unveiled this statue of Washington,",
+              "start": 172.33999633789062,
+              "end": 174.3000030517578
+            },
+            {
+              "text": " timed with the centennial of Evacuation Day.",
+              "start": 174.94000244140625,
+              "end": 177.22000122070312
+            },
+            {
+              "text": " The marble pedestal actually says Evacuation Day,",
+              "start": 177.74000549316406,
+              "end": 180.52000427246094
+            },
+            {
+              "text": " commemorating his return.",
+              "start": 181.22000122070312,
+              "end": 182.0399932861328
+            },
+            {
+              "text": " And famously, on Sept. 16, 1920,",
+              "start": 182.4199981689453,
+              "end": 185.3800048828125
+            },
+            {
+              "text": " a horse-wagon bomb detonated right across from these steps,",
+              "start": 185.6999969482422,
+              "end": 188.83999633789062
+            },
+            {
+              "text": " the Wall Street bombing, killing 38 people,",
+              "start": 189.39999389648438,
+              "end": 191.9199981689453
+            },
+            {
+              "text": " injuring hundreds in what might've been an anarchist attack.",
+              "start": 192.60000610351562,
+              "end": 195.33999633789062
+            },
+            {
+              "text": " You can still see pockmarks",
+              "start": 195.33999633789062,
+              "end": 197.33999633789062
+            },
+            {
+              "text": " on 23 Wall Street's façade from the shrapnel.",
+              "start": 197.33999633789062,
+              "end": 200.02000427246094
+            },
+            {
+              "text": " So outside Federal Hall,",
+              "start": 200.60000610351562,
+              "end": 201.9600067138672
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " blood has been shed, even in the 20th century.",
+              "start": 202.4199981689453,
+              "end": 204.8800048828125
+            },
+            {
+              "text": " But let's focus on the hopeful moment of 1789.",
+              "start": 205.25999450683594,
+              "end": 208.8000030517578
+            },
+            {
+              "text": " Washington, after taking the oath,",
+              "start": 210.1199951171875,
+              "end": 211.83999633789062
+            },
+            {
+              "text": " went inside to the Senate chamber",
+              "start": 212.24000549316406,
+              "end": 213.67999267578125
+            },
+            {
+              "text": " and delivered the first inaugural address.",
+              "start": 213.67999267578125,
+              "end": 215.9600067138672
+            },
+            {
+              "text": " John Adams was there as vice president",
+              "start": 216.4600067138672,
+              "end": 218.4600067138672
+            },
+            {
+              "text": " and president of the Senate.",
+              "start": 218.4600067138672,
+              "end": 220.02000427246094
+            },
+            {
+              "text": " Adams had to shush exuberant senators",
+              "start": 220.72000122070312,
+              "end": 222.5
+            },
+            {
+              "text": " who began loudly applauding Washington mid-speech.",
+              "start": 222.5,
+              "end": 225.74000549316406
+            },
+            {
+              "text": " Senate decorum, you know.",
+              "start": 226.33999633789062,
+              "end": 227.55999755859375
+            },
+            {
+              "text": " Then Washington and Congress walked down Broadway",
+              "start": 228.17999267578125,
+              "end": 230.60000610351562
+            },
+            {
+              "text": " to St. Paul's Chapel to pray and hear a to-do anthem,",
+              "start": 230.60000610351562,
+              "end": 233.82000732421875
+            },
+            {
+              "text": " as we discussed earlier.",
+              "start": 234.8000030517578,
+              "end": 235.8800048828125
+            },
+            {
+              "text": " That alignment of church and state in Thanksgiving",
+              "start": 236.4199981689453,
+              "end": 238.5399932861328
+            },
+            {
+              "text": " is telling of the era's sensibilities.",
+              "start": 238.5399932861328,
+              "end": 240.8000030517578
+            },
+            {
+              "text": " Then, presumably, many of the dignitaries",
+              "start": 241.44000244140625,
+              "end": 244.24000549316406
+            },
+            {
+              "text": " enjoyed celebratory dinners,",
+              "start": 244.24000549316406,
+              "end": 245.77999877929688
+            },
+            {
+              "text": " perhaps at France's Tavern or other fine homes.",
+              "start": 246.17999267578125,
+              "end": 249.05999755859375
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " If you walk inside today's memorial, it's free,",
+              "start": 249.16000366210938,
+              "end": 251.9600067138672
+            },
+            {
+              "text": " you can see exhibits like the actual Bible",
+              "start": 251.9600067138672,
+              "end": 254.27999877929688
+            },
+            {
+              "text": " Washington used for the oath on loan.",
+              "start": 254.27999877929688,
+              "end": 256.4200134277344
+            },
+            {
+              "text": " It belonged to St. John's Masonic Lodge.",
+              "start": 257.05999755859375,
+              "end": 258.6600036621094
+            },
+            {
+              "text": " They still sometimes swear in New York officials",
+              "start": 258.8399963378906,
+              "end": 261.3800048828125
+            },
+            {
+              "text": " on that Bible.",
+              "start": 261.3800048828125,
+              "end": 262.20001220703125
+            },
+            {
+              "text": " There's also the stone floor of the old city hall's balcony",
+              "start": 263.0400085449219,
+              "end": 266.32000732421875
+            },
+            {
+              "text": " and some remnants.",
+              "start": 266.32000732421875,
+              "end": 267.3800048828125
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " I want you to stand maybe on the top step or two,",
+              "start": 268.260009765625,
+              "end": 271.5
+            },
+            {
+              "text": " near Washington's statue, and look down Wall Street.",
+              "start": 271.70001220703125,
+              "end": 274.3800048828125
+            },
+            {
+              "text": " Imagine that throng of citizens,",
+              "start": 275.1600036621094,
+              "end": 276.3999938964844
+            },
+            {
+              "text": " some hanging from windows or lampposts to see their hero.",
+              "start": 276.6400146484375,
+              "end": 279.3599853515625
+            },
+            {
+              "text": " Many had only known monarchy as government.",
+              "start": 279.3599853515625,
+              "end": 281.8999938964844
+            },
+            {
+              "text": " Now they were witnessing something profoundly new,",
+              "start": 282.5,
+              "end": 284.760009765625
+            },
+            {
+              "text": " a leader chosen by the people,",
+              "start": 285.3999938964844,
+              "end": 286.9599914550781
+            },
+            {
+              "text": " relinquishing military power for civil,",
+              "start": 287.6600036621094,
+              "end": 289.260009765625
+            },
+            {
+              "text": " taking an oath to a constitution just hammered out.",
+              "start": 290.0400085449219,
+              "end": 292.7200012207031
+            },
+            {
+              "text": " Washington was solemn.",
+              "start": 293.739990234375,
+              "end": 294.8599853515625
+            },
+            {
+              "text": " One witness said he was visibly moved",
+              "start": 295.94000244140625,
+              "end": 298.1199951171875
+            },
+            {
+              "text": " and that his hands trembled slightly holding the Bible.",
+              "start": 298.1199951171875,
+              "end": 301.1000061035156
+            },
+            {
+              "text": " Think of everything on his shoulders,",
+              "start": 302.1199951171875,
+              "end": 303.5400085449219
+            },
+            {
+              "text": " the expectations of millions worldwide",
+              "start": 304.0799865722656,
+              "end": 306.5199890136719
+            },
+            {
+              "text": " who doubted this experiment.",
+              "start": 306.5199890136719,
+              "end": 308.1000061035156
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " And beyond the public stage, inside Federal Hall,",
+              "start": 308.1000061035156,
+              "end": 310.9599914550781
+            },
+            {
+              "text": " Congress debated things like how to address the president.",
+              "start": 311.5799865722656,
+              "end": 313.760009765625
+            },
+            {
+              "text": " Adams wanted something like His Highness.",
+              "start": 314.8800048828125,
+              "end": 316.739990234375
+            },
+            {
+              "text": " Others said plain Mr. President.",
+              "start": 317.4599914550781,
+              "end": 319.6400146484375
+            },
+            {
+              "text": " Guess which one?",
+              "start": 320.1600036621094,
+              "end": 320.739990234375
+            },
+            {
+              "text": " They crafted the amendments that became the Bill of Rights",
+              "start": 321.4800109863281,
+              "end": 323.8999938964844
+            },
+            {
+              "text": " right here in summer 1789,",
+              "start": 323.8999938964844,
+              "end": 326.17999267578125
+            },
+            {
+              "text": " spurred by the state's demands during ratification.",
+              "start": 326.9800109863281,
+              "end": 329.1600036621094
+            },
+            {
+              "text": " It's quite inspiring to stand",
+              "start": 330.82000732421875,
+              "end": 332.3399963378906
+            },
+            {
+              "text": " where the First Amendment was born,",
+              "start": 332.3399963378906,
+              "end": 333.9200134277344
+            },
+            {
+              "text": " given all our current debates on free speech and religion, etc.",
+              "start": 333.9200134277344,
+              "end": 338.5199890136719
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " So this site is a direct link",
+              "start": 338.739990234375,
+              "end": 340.5199890136719
+            },
+            {
+              "text": " from the Revolution to the Republic.",
+              "start": 340.5199890136719,
+              "end": 342.4800109863281
+            },
+            {
+              "text": " At Francis, we saw camaraderie and farewell.",
+              "start": 343.2200012207031,
+              "end": 345.5199890136719
+            },
+            {
+              "text": " Here we see structure and creation.",
+              "start": 345.9800109863281,
+              "end": 347.82000732421875
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " One more note, just up Broad Street,",
+              "start": 348.1400146484375,
+              "end": 350.1199951171875
+            },
+            {
+              "text": " behind Washington's statue,",
+              "start": 350.6000061035156,
+              "end": 351.6400146484375
+            },
+            {
+              "text": " is the New York Stock Exchange, 1903.",
+              "start": 351.79998779296875,
+              "end": 354.4800109863281
+            },
+            {
+              "text": " In a way, that building, with its neoclassical facade,",
+              "start": 355.2799987792969,
+              "end": 358.260009765625
+            },
+            {
+              "text": " carrying on the tradition of commerce and capitalism",
+              "start": 358.4599914550781,
+              "end": 360.739990234375
+            },
+            {
+              "text": " that took root once political stability was assured.",
+              "start": 360.739990234375,
+              "end": 363.4200134277344
+            },
+            {
+              "text": " There's symbolic poetry that Washington faces the NYSE.",
+              "start": 364.1000061035156,
+              "end": 368.0
+            },
+            {
+              "text": " It's like the first president",
+              "start": 368.82000732421875,
+              "end": 369.9599914550781
+            },
+            {
+              "text": " looking upon the financial engine of the nation",
+              "start": 369.9599914550781,
+              "end": 372.1600036621094
+            },
+            {
+              "text": " he helped found.",
+              "start": 372.1600036621094,
+              "end": 373.0799865722656
+            },
+            {
+              "text": " Of course, historically,",
+              "start": 373.8599853515625,
+              "end": 374.9200134277344
+            },
+            {
+              "text": " by locating the Capitol temporarily in NYSE,",
+              "start": 375.8399963378906,
+              "end": 378.5199890136719
+            },
+            {
+              "text": " it also anchored some early financial activity here",
+              "start": 378.94000244140625,
+              "end": 381.6199951171875
+            },
+            {
+              "text": " until it moved to Philly in 1790.",
+              "start": 381.6199951171875,
+              "end": 384.0
+            },
+            {
+              "text": " So New York always had one foot in government,",
+              "start": 384.32000732421875,
+              "end": 386.7200012207031
+            },
+            {
+              "text": " one in finance.",
+              "start": 387.05999755859375,
+              "end": 387.82000732421875
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " At this point, we've covered the cycle,",
+              "start": 388.4800109863281,
+              "end": 390.29998779296875
+            },
+            {
+              "text": " oppression resisted, war won,",
+              "start": 390.29998779296875,
+              "end": 392.6600036621094
+            },
+            {
+              "text": " independence secured, government established.",
+              "start": 393.5400085449219,
+              "end": 395.5400085449219
+            },
+            {
+              "text": " Our final stop brings a different, deeper perspective,",
+              "start": 396.17999267578125,
+              "end": 398.6000061035156
+            },
+            {
+              "text": " the African Burial Ground, a short walk north.",
+              "start": 399.1400146484375,
+              "end": 401.4599914550781
+            },
+            {
+              "text": " Why end there?",
+              "start": 402.2200012207031,
+              "end": 402.9200134277344
+            },
+            {
+              "text": " Because it reminds us that not everyone's freedom",
+              "start": 403.2200012207031,
+              "end": 405.44000244140625
+            },
+            {
+              "text": " was achieved in 1783.",
+              "start": 405.4599914550781,
+              "end": 407.2200012207031
+            },
+            {
+              "text": " New York had enslaved people since Dutch days,",
+              "start": 407.8599853515625,
+              "end": 410.05999755859375
+            },
+            {
+              "text": " and even after Revolution,",
+              "start": 410.29998779296875,
+              "end": 411.5799865722656
+            },
+            {
+              "text": " slavery persisted here until 1827.",
+              "start": 412.17999267578125,
+              "end": 414.3399963378906
+            },
+            {
+              "text": " The African Burial Ground is a sacred reminder",
+              "start": 414.44000244140625,
+              "end": 416.8999938964844
+            },
+            {
+              "text": " of those whose labor built colonial New York",
+              "start": 416.8999938964844,
+              "end": 419.44000244140625
+            },
+            {
+              "text": " and whose liberty was deferred.",
+              "start": 420.0400085449219,
+              "end": 421.8800048828125
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " As we walk there, north on Broadway,",
+              "start": 422.32000732421875,
+              "end": 423.8399963378906
+            },
+            {
+              "text": " then a couple blocks, consider.",
+              "start": 424.0799865722656,
+              "end": 425.5400085449219
+            },
+            {
+              "text": " We'll pass City Hall Park, the Commons,",
+              "start": 426.5799865722656,
+              "end": 429.20001220703125
+            },
+            {
+              "text": " where Declaration was first read",
+              "start": 429.3999938964844,
+              "end": 430.8999938964844
+            },
+            {
+              "text": " and the Sons of Liberty erected Liberty Poles.",
+              "start": 430.8999938964844,
+              "end": 433.3800048828125
+            },
+            {
+              "text": " You might see the replica pole in Echabot, that event.",
+              "start": 433.67999267578125,
+              "end": 435.9200134277344
+            },
+            {
+              "text": " City Hall itself, the graceful 1803 building,",
+              "start": 436.5,
+              "end": 439.239990234375
+            },
+            {
+              "text": " sits where British soldiers drilled",
+              "start": 439.9599914550781,
+              "end": 441.44000244140625
+            },
+            {
+              "text": " and where, ironically, Washington had that first reading",
+              "start": 441.5400085449219,
+              "end": 444.760009765625
+            },
+            {
+              "text": " of the Declaration to his troops.",
+              "start": 444.760009765625,
+              "end": 446.3999938964844
+            },
+            {
+              "text": " So wave hi to that as we go by.",
+              "start": 447.5199890136719,
+              "end": 449.9800109863281
+            },
+            {
+              "text": " But our focus now is on the lives",
+              "start": 451.3800048828125,
+              "end": 452.9800109863281
+            },
+            {
+              "text": " of everyday colonial New Yorkers, often overlooked,",
+              "start": 452.9800109863281,
+              "end": 455.94000244140625
+            },
+            {
+              "text": " the enslaved Africans who comprised",
+              "start": 456.5,
+              "end": 458.0
+            },
+            {
+              "text": " about 20% of NYC's population in 1776.",
+              "start": 458.0,
+              "end": 461.6400146484375
+            },
+            {
+              "text": " Their resting place, forgotten for centuries, awaits us,",
+              "start": 462.4200134277344,
+              "end": 465.6400146484375
+            },
+            {
+              "text": " quiet amid the downtown bustle.",
+              "start": 466.2200012207031,
+              "end": 467.5799865722656
+            }
+          ]
+        }
+      ],
+      "audioUrl": "https://files.catbox.moe/pjn1kw.mp3",
+      "coverImageUrl": "https://media.architecturaldigest.com/photos/5670919e0b38dbaa239f0dd5/1:1/w_2451,h_2451,c_limit/federal-hall-new-york-city-restoration-01.jpeg"
+    },
+    {
+      "id": "3F634CE5-E598-4FB2-9685-E81287E14D80",
+      "waypointId": "3F634CE5-E598-4FB2-9685-E81287E14D80",
+      "title": "Trinity Church",
+      "paragraphs": [
+        {
+          "segments": [
+            {
+              "text": " We end our tour on a somber and reflective note",
+              "start": 0.0,
+              "end": 2.819999933242798
+            },
+            {
+              "text": " at the African burial ground.",
+              "start": 2.819999933242798,
+              "end": 4.460000038146973
+            },
+            {
+              "text": " This place humbles you.",
+              "start": 5.260000228881836,
+              "end": 6.320000171661377
+            },
+            {
+              "text": " It holds the remains of an estimated 15,000 African men,",
+              "start": 6.960000038146973,
+              "end": 10.579999923706055
+            },
+            {
+              "text": " women, and children, enslaved and free,",
+              "start": 11.0,
+              "end": 13.15999984741211
+            },
+            {
+              "text": " buried here from the late 1600s until 1794.",
+              "start": 13.800000190734863,
+              "end": 17.059999465942383
+            },
+            {
+              "text": " It's the final resting place for people",
+              "start": 18.440000534057617,
+              "end": 20.540000915527344
+            },
+            {
+              "text": " who literally built colonial New York with their hands,",
+              "start": 20.540000915527344,
+              "end": 23.579999923706055
+            },
+            {
+              "text": " yet were largely written out of its story",
+              "start": 23.959999084472656,
+              "end": 25.920000076293945
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " until this rediscovery.",
+              "start": 25.920000076293945,
+              "end": 27.399999618530273
+            },
+            {
+              "text": " Take in the memorial, the dark granite circle of diaspora",
+              "start": 27.399999618530273,
+              "end": 30.940000534057617
+            },
+            {
+              "text": " with symbols from African cultures,",
+              "start": 30.940000534057617,
+              "end": 32.63999938964844
+            },
+            {
+              "text": " the ancestral libation chamber.",
+              "start": 33.15999984741211,
+              "end": 34.599998474121094
+            },
+            {
+              "text": " Its soaring carved black stone looks like a ship's hull",
+              "start": 35.08000183105469,
+              "end": 37.86000061035156
+            },
+            {
+              "text": " or perhaps a giant coffin.",
+              "start": 37.86000061035156,
+              "end": 39.41999816894531
+            },
+            {
+              "text": " Its design invites contemplation.",
+              "start": 40.20000076293945,
+              "end": 42.040000915527344
+            },
+            {
+              "text": " Notice the heart-shaped Akan symbol for sankofa,",
+              "start": 42.84000015258789,
+              "end": 45.29999923706055
+            },
+            {
+              "text": " meaning learn from the past engraved here,",
+              "start": 45.81999969482422,
+              "end": 48.040000915527344
+            },
+            {
+              "text": " apt for what we're doing.",
+              "start": 48.31999969482422,
+              "end": 49.279998779296875
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Let me tell the story.",
+              "start": 50.20000076293945,
+              "end": 51.34000015258789
+            },
+            {
+              "text": " In the 1700s, this area was well outside the city wall,",
+              "start": 51.7400016784668,
+              "end": 55.47999954223633
+            },
+            {
+              "text": " which ran along present-day Chambers Street.",
+              "start": 56.0,
+              "end": 59.02000045776367
+            },
+            {
+              "text": " Enslaved Africans were not allowed burial",
+              "start": 59.779998779296875,
+              "end": 61.279998779296875
+            },
+            {
+              "text": " in churchyards with whites,",
+              "start": 61.279998779296875,
+              "end": 62.720001220703125
+            },
+            {
+              "text": " so a Negro's burial ground was established",
+              "start": 63.2599983215332,
+              "end": 65.5199966430664
+            },
+            {
+              "text": " on this outskirts land around 1690s.",
+              "start": 65.5199966430664,
+              "end": 68.4000015258789
+            },
+            {
+              "text": " It was used through the 18th century as the main cemetery",
+              "start": 69.5999984741211,
+              "end": 72.41999816894531
+            },
+            {
+              "text": " for the city's substantial black population,",
+              "start": 72.41999816894531,
+              "end": 74.86000061035156
+            },
+            {
+              "text": " enslaved and some free.",
+              "start": 75.86000061035156,
+              "end": 76.62000274658203
+            },
+            {
+              "text": " Bodies were interred without coffins often,",
+              "start": 77.86000061035156,
+              "end": 79.68000030517578
+            },
+            {
+              "text": " some with items like beads or shells from their homelands.",
+              "start": 80.27999877929688,
+              "end": 83.26000213623047
+            },
+            {
+              "text": " As the city grew, the six-acre burial ground",
+              "start": 84.0999984741211,
+              "end": 86.33999633789062
+            },
+            {
+              "text": " got gradually filled, and eventually, in 1794,",
+              "start": 86.33999633789062,
+              "end": 90.08000183105469
+            },
+            {
+              "text": " the Common Council closed it.",
+              "start": 90.22000122070312,
+              "end": 91.91999816894531
+            },
+            {
+              "text": " Then it was largely forgotten,",
+              "start": 92.9800033569336,
+              "end": 94.33999633789062
+            },
+            {
+              "text": " built over with landfill and later buildings.",
+              "start": 95.0199966430664,
+              "end": 97.13999938964844
+            },
+            {
+              "text": " By the 19th century, people didn't realize what lay beneath,",
+              "start": 97.9000015258789,
+              "end": 100.9000015258789
+            },
+            {
+              "text": " though occasionally remains were disturbed",
+              "start": 101.58000183105469,
+              "end": 103.44000244140625
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " during construction.",
+              "start": 103.44000244140625,
+              "end": 104.30000305175781
+            },
+            {
+              "text": " Flash forward to 1991.",
+              "start": 105.55999755859375,
+              "end": 107.26000213623047
+            },
+            {
+              "text": " During excavation for a new federal office building,",
+              "start": 108.13999938964844,
+              "end": 110.41999816894531
+            },
+            {
+              "text": " backhoes started pulling up human skeletons.",
+              "start": 110.41999816894531,
+              "end": 113.22000122070312
+            },
+            {
+              "text": " Community activists and scholars",
+              "start": 114.23999786376953,
+              "end": 115.5199966430664
+            },
+            {
+              "text": " demanded proper study and respect.",
+              "start": 115.5199966430664,
+              "end": 117.5999984741211
+            },
+            {
+              "text": " Eventually, over 400 remains were carefully exhumed",
+              "start": 118.54000091552734,
+              "end": 121.08000183105469
+            },
+            {
+              "text": " and studied by Howard University,",
+              "start": 121.08000183105469,
+              "end": 122.81999969482422
+            },
+            {
+              "text": " yielding tremendous insight.",
+              "start": 123.37999725341797,
+              "end": 124.4800033569336
+            },
+            {
+              "text": " Signs of backbreaking labor in bone deformities,",
+              "start": 125.30000305175781,
+              "end": 127.69999694824219
+            },
+            {
+              "text": " filed teeth reflecting African customs,",
+              "start": 128.16000366210938,
+              "end": 130.1999969482422
+            },
+            {
+              "text": " DNA linking them to West African regions.",
+              "start": 130.6999969482422,
+              "end": 132.75999450683594
+            },
+            {
+              "text": " One woman's skeleton bore the wear",
+              "start": 133.6999969482422,
+              "end": 135.72000122070312
+            },
+            {
+              "text": " of carrying heavy loads on her head.",
+              "start": 135.72000122070312,
+              "end": 137.39999389648438
+            },
+            {
+              "text": " A man's skull had filed teeth in a West African style.",
+              "start": 138.0399932861328,
+              "end": 141.13999938964844
+            },
+            {
+              "text": " Children's bones showed malnutrition.",
+              "start": 141.97999572753906,
+              "end": 143.4600067138672
+            },
+            {
+              "text": " These are silent witnesses to the brutal conditions",
+              "start": 144.67999267578125,
+              "end": 146.8800048828125
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " of slavery in urban New York.",
+              "start": 146.8800048828125,
+              "end": 148.5800018310547
+            },
+            {
+              "text": " It hit the city hard to face this history.",
+              "start": 149.27999877929688,
+              "end": 151.39999389648438
+            },
+            {
+              "text": " The African burial ground",
+              "start": 152.72000122070312,
+              "end": 153.94000244140625
+            },
+            {
+              "text": " became a national monument in 2006.",
+              "start": 153.94000244140625,
+              "end": 156.39999389648438
+            },
+            {
+              "text": " They reinterred those 419 remains in mahogany coffins",
+              "start": 157.05999755859375,
+              "end": 160.33999633789062
+            },
+            {
+              "text": " in 2003, right here under the grassy mounds.",
+              "start": 160.33999633789062,
+              "end": 163.6999969482422
+            },
+            {
+              "text": " Each coffin was draped with a kente cloth",
+              "start": 164.6199951171875,
+              "end": 166.89999389648438
+            },
+            {
+              "text": " and escorted by honor guards",
+              "start": 166.89999389648438,
+              "end": 168.3000030517578
+            },
+            {
+              "text": " as thousands watched the procession through lower Manhattan,",
+              "start": 168.3000030517578,
+              "end": 171.0399932861328
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " a moving ceremony of overdue respect.",
+              "start": 171.32000732421875,
+              "end": 173.72000122070312
+            },
+            {
+              "text": " Stand by the libation chamber's aperture.",
+              "start": 174.94000244140625,
+              "end": 176.77999877929688
+            },
+            {
+              "text": " It aligns with the sun each equinox,",
+              "start": 177.10000610351562,
+              "end": 179.1199951171875
+            },
+            {
+              "text": " focusing light down onto the reburial mounds.",
+              "start": 179.5399932861328,
+              "end": 181.8000030517578
+            },
+            {
+              "text": " Pouring water, libation and saying prayers here",
+              "start": 182.55999755859375,
+              "end": 185.1999969482422
+            },
+            {
+              "text": " is welcomed as homage.",
+              "start": 185.1999969482422,
+              "end": 186.63999938964844
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Often you'll see flowers or offerings",
+              "start": 187.4600067138672,
+              "end": 189.0399932861328
+            },
+            {
+              "text": " left by visitors for the ancestors.",
+              "start": 189.0399932861328,
+              "end": 190.8000030517578
+            },
+            {
+              "text": " Let's reflect.",
+              "start": 191.55999755859375,
+              "end": 192.55999755859375
+            },
+            {
+              "text": " At Battery Park, we celebrated liberty,",
+              "start": 193.1199951171875,
+              "end": 195.5
+            },
+            {
+              "text": " but here we confront those for whom liberty was delayed.",
+              "start": 196.13999938964844,
+              "end": 199.5
+            },
+            {
+              "text": " New York's economy was deeply entwined with slavery,",
+              "start": 200.4199981689453,
+              "end": 202.74000549316406
+            },
+            {
+              "text": " from the ships that brought human cargo",
+              "start": 203.39999389648438,
+              "end": 204.82000732421875
+            },
+            {
+              "text": " to the labor enslaved people",
+              "start": 204.82000732421875,
+              "end": 206.89999389648438
+            },
+            {
+              "text": " provided building the fortifications, the roads,",
+              "start": 206.89999389648438,
+              "end": 209.4600067138672
+            },
+            {
+              "text": " like Broadway initially cleared by slave labor,",
+              "start": 210.02000427246094,
+              "end": 212.25999450683594
+            },
+            {
+              "text": " the homes of the wealthy.",
+              "start": 212.67999267578125,
+              "end": 213.75999450683594
+            },
+            {
+              "text": " Enslaved Africans helped build",
+              "start": 215.0399932861328,
+              "end": 216.16000366210938
+            },
+            {
+              "text": " the original city hall, federal hall,",
+              "start": 216.16000366210938,
+              "end": 218.24000549316406
+            },
+            {
+              "text": " where independence was declared.",
+              "start": 218.3000030517578,
+              "end": 219.8800048828125
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " How bitterly ironic that must have felt.",
+              "start": 220.39999389648438,
+              "end": 222.47999572753906
+            },
+            {
+              "text": " There were acts of resistance too.",
+              "start": 222.74000549316406,
+              "end": 224.33999633789062
+            },
+            {
+              "text": " The 1712 Slave Revolt in NYC,",
+              "start": 224.33999633789062,
+              "end": 227.47999572753906
+            },
+            {
+              "text": " enslaved folks set a building afire",
+              "start": 227.89999389648438,
+              "end": 229.36000061035156
+            },
+            {
+              "text": " and killed several colonists before being brutally executed.",
+              "start": 229.36000061035156,
+              "end": 232.36000061035156
+            },
+            {
+              "text": " And the 1741 rumored slave conspiracy, likely a hysteria,",
+              "start": 233.0800018310547,
+              "end": 237.1199951171875
+            },
+            {
+              "text": " which led to horrific mass executions.",
+              "start": 237.74000549316406,
+              "end": 239.77999877929688
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Some of those executed likely buried right here.",
+              "start": 240.5399932861328,
+              "end": 243.10000610351562
+            },
+            {
+              "text": " At the revolution start,",
+              "start": 243.25999450683594,
+              "end": 244.83999633789062
+            },
+            {
+              "text": " some enslaved New Yorkers fled to the British",
+              "start": 245.13999938964844,
+              "end": 247.3000030517578
+            },
+            {
+              "text": " who offered freedom to those who joined their lines.",
+              "start": 247.3000030517578,
+              "end": 249.82000732421875
+            },
+            {
+              "text": " Others supported the Patriot cause,",
+              "start": 250.5800018310547,
+              "end": 252.05999755859375
+            },
+            {
+              "text": " hoping the rhetoric of all men created equal",
+              "start": 252.05999755859375,
+              "end": 255.10000610351562
+            },
+            {
+              "text": " would eventually apply to them.",
+              "start": 255.10000610351562,
+              "end": 257.3800048828125
+            },
+            {
+              "text": " It's known that Washington's army",
+              "start": 258.6199951171875,
+              "end": 260.05999755859375
+            },
+            {
+              "text": " was about 5% African-American at one point.",
+              "start": 260.05999755859375,
+              "end": 262.55999755859375
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " New York itself had free black militias.",
+              "start": 263.2799987792969,
+              "end": 265.2799987792969
+            },
+            {
+              "text": " Yet independence didn't bring immediate freedom",
+              "start": 266.29998779296875,
+              "end": 268.8800048828125
+            },
+            {
+              "text": " for most here.",
+              "start": 268.8800048828125,
+              "end": 269.8399963378906
+            },
+            {
+              "text": " New York state only passed gradual abolition in 1799,",
+              "start": 270.5799865722656,
+              "end": 273.8599853515625
+            },
+            {
+              "text": " fully freeing enslaved people by 1827.",
+              "start": 274.4800109863281,
+              "end": 277.17999267578125
+            },
+            {
+              "text": " So as Washington took that oath up the street,",
+              "start": 277.6600036621094,
+              "end": 279.8399963378906
+            },
+            {
+              "text": " just blocks away,",
+              "start": 279.8399963378906,
+              "end": 281.1199951171875
+            },
+            {
+              "text": " enslaved people continued to toil and be traded.",
+              "start": 281.29998779296875,
+              "end": 283.4599914550781
+            },
+            {
+              "text": " The NY slave market was near Wall and Pearl until 1762.",
+              "start": 284.0,
+              "end": 287.55999755859375
+            },
+            {
+              "text": " After that, sales took place at various sites.",
+              "start": 288.1000061035156,
+              "end": 290.7200012207031
+            },
+            {
+              "text": " In fact, President Washington himself",
+              "start": 291.6400146484375,
+              "end": 293.94000244140625
+            },
+            {
+              "text": " kept enslaved servants in the presidential mansion",
+              "start": 293.94000244140625,
+              "end": 296.3399963378906
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " on Broadway during his time in NYC.",
+              "start": 296.3399963378906,
+              "end": 298.8599853515625
+            },
+            {
+              "text": " Slavery was legal nationwide then.",
+              "start": 299.7799987792969,
+              "end": 301.44000244140625
+            },
+            {
+              "text": " By honoring the burial ground,",
+              "start": 301.7200012207031,
+              "end": 303.05999755859375
+            },
+            {
+              "text": " we add a crucial layer to this tour's theme.",
+              "start": 303.1400146484375,
+              "end": 305.5
+            },
+            {
+              "text": " The revolution's ideals were powerful, but incomplete.",
+              "start": 305.9200134277344,
+              "end": 308.9200134277344
+            },
+            {
+              "text": " The struggle to extend liberty to African-Americans,",
+              "start": 309.67999267578125,
+              "end": 312.3399963378906
+            },
+            {
+              "text": " to women, to others, would continue for generations.",
+              "start": 312.739990234375,
+              "end": 315.9599914550781
+            },
+            {
+              "text": " Many battles yet to be fought on moral and legal grounds.",
+              "start": 316.67999267578125,
+              "end": 319.4599914550781
+            },
+            {
+              "text": " But seeds were planted.",
+              "start": 320.32000732421875,
+              "end": 321.2799987792969
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Those Bill of Rights amendments crafted yards away",
+              "start": 322.3800048828125,
+              "end": 324.7200012207031
+            },
+            {
+              "text": " eventually provided tools for justice movements.",
+              "start": 324.8800048828125,
+              "end": 327.4599914550781
+            },
+            {
+              "text": " Here, you can almost feel the souls.",
+              "start": 327.9800109863281,
+              "end": 329.6400146484375
+            },
+            {
+              "text": " When I first came,",
+              "start": 330.260009765625,
+              "end": 331.1000061035156
+            },
+            {
+              "text": " I saw libation water trickling over the granite,",
+              "start": 331.3999938964844,
+              "end": 333.7799987792969
+            },
+            {
+              "text": " and it gave me chills,",
+              "start": 334.0,
+              "end": 335.0199890136719
+            },
+            {
+              "text": " like the ancestors were drinking it in.",
+              "start": 335.3800048828125,
+              "end": 337.0400085449219
+            },
+            {
+              "text": " This memorial invites us to speak their names",
+              "start": 337.9599914550781,
+              "end": 340.4200134277344
+            },
+            {
+              "text": " or imagine their lives.",
+              "start": 340.4200134277344,
+              "end": 341.760009765625
+            },
+            {
+              "text": " One could have been a mother",
+              "start": 342.7200012207031,
+              "end": 343.7200012207031
+            },
+            {
+              "text": " who by day sold food in the market.",
+              "start": 343.7200012207031,
+              "end": 345.8999938964844
+            },
+            {
+              "text": " Some enslaved had side businesses.",
+              "start": 346.67999267578125,
+              "end": 348.260009765625
+            },
+            {
+              "text": " By night, she sang a Yoruba lullaby",
+              "start": 348.9800109863281,
+              "end": 350.70001220703125
+            },
+            {
+              "text": " to her child in a Pearl Street kitchen.",
+              "start": 350.70001220703125,
+              "end": 352.44000244140625
+            },
+            {
+              "text": " Another, a young man who hauled barrels at the docks,",
+              "start": 353.1600036621094,
+              "end": 356.1600036621094
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " dreaming of escaping on one of those ships.",
+              "start": 357.0,
+              "end": 358.94000244140625
+            },
+            {
+              "text": " Now they rest in peace,",
+              "start": 359.20001220703125,
+              "end": 360.6400146484375
+            },
+            {
+              "text": " recognized as founders of New York, too.",
+              "start": 361.260009765625,
+              "end": 362.8999938964844
+            },
+            {
+              "text": " I encourage everyone to walk the perimeter",
+              "start": 363.4800109863281,
+              "end": 365.6400146484375
+            },
+            {
+              "text": " and read the interpretive panels.",
+              "start": 365.6400146484375,
+              "end": 367.1600036621094
+            },
+            {
+              "text": " One shows a skeletal analysis,",
+              "start": 367.760009765625,
+              "end": 369.29998779296875
+            },
+            {
+              "text": " filed teeth, cranial notches from carrying loads, et cetera.",
+              "start": 370.05999755859375,
+              "end": 372.9800109863281
+            },
+            {
+              "text": " Another lists African cultural symbols found.",
+              "start": 373.67999267578125,
+              "end": 375.79998779296875
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " It ties the diaspora to this very ground.",
+              "start": 376.3800048828125,
+              "end": 378.3800048828125
+            },
+            {
+              "text": " In closing our tour,",
+              "start": 378.4599914550781,
+              "end": 379.8599853515625
+            },
+            {
+              "text": " let's consider how far we've walked in time and ideals.",
+              "start": 380.1600036621094,
+              "end": 382.760009765625
+            },
+            {
+              "text": " From colonial subjects pulling down a tyrant statue",
+              "start": 383.6400146484375,
+              "end": 386.4800109863281
+            },
+            {
+              "text": " to citizens erecting a democracy.",
+              "start": 386.4800109863281,
+              "end": 388.239990234375
+            },
+            {
+              "text": " From war and tavern toasts to constitutional governance.",
+              "start": 388.8800048828125,
+              "end": 391.8399963378906
+            },
+            {
+              "text": " And here, acknowledging those whose freedom was deferred.",
+              "start": 392.44000244140625,
+              "end": 395.5400085449219
+            },
+            {
+              "text": " New York City in the revolutionary era",
+              "start": 396.3399963378906,
+              "end": 398.2799987792969
+            },
+            {
+              "text": " was dynamic and paradoxical,",
+              "start": 398.2799987792969,
+              "end": 400.17999267578125
+            },
+            {
+              "text": " a place of great idealism and grim realities.",
+              "start": 400.5400085449219,
+              "end": 402.82000732421875
+            },
+            {
+              "text": " It reminds us that history isn't a straight hero's tale,",
+              "start": 403.4599914550781,
+              "end": 406.0199890136719
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " but a complex human saga.",
+              "start": 406.4200134277344,
+              "end": 407.94000244140625
+            },
+            {
+              "text": " Standing at the African burial ground",
+              "start": 408.9599914550781,
+              "end": 410.5799865722656
+            },
+            {
+              "text": " beneath the skyscrapers of the Justice Department",
+              "start": 410.5799865722656,
+              "end": 413.17999267578125
+            },
+            {
+              "text": " and federal buildings, I'm struck by continuity.",
+              "start": 413.17999267578125,
+              "end": 415.9200134277344
+            },
+            {
+              "text": " We're still striving to form a more perfect union,",
+              "start": 416.760009765625,
+              "end": 419.5199890136719
+            },
+            {
+              "text": " to live up to the founding creed in the declaration",
+              "start": 420.20001220703125,
+              "end": 422.6400146484375
+            },
+            {
+              "text": " that all are created equal.",
+              "start": 422.6600036621094,
+              "end": 424.44000244140625
+            },
+            {
+              "text": " The people buried here never saw that promise fulfilled,",
+              "start": 425.2799987792969,
+              "end": 428.1400146484375
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " but their descendants fought to make it so.",
+              "start": 428.739990234375,
+              "end": 431.20001220703125
+            },
+            {
+              "text": " Our walking tour might be ending,",
+              "start": 432.0400085449219,
+              "end": 433.5799865722656
+            },
+            {
+              "text": " but I hope its stories stay with you",
+              "start": 434.05999755859375,
+              "end": 435.94000244140625
+            },
+            {
+              "text": " as you wander Manhattan's streets.",
+              "start": 435.94000244140625,
+              "end": 437.8599853515625
+            },
+            {
+              "text": " Lower Manhattan is essentially an outdoor museum",
+              "start": 438.9599914550781,
+              "end": 441.1400146484375
+            },
+            {
+              "text": " of America's origins.",
+              "start": 441.32000732421875,
+              "end": 442.55999755859375
+            },
+            {
+              "text": " You only need to know where to look.",
+              "start": 443.1400146484375,
+              "end": 444.8999938964844
+            },
+            {
+              "text": " A bronze plaque on Broadway",
+              "start": 445.4800109863281,
+              "end": 447.05999755859375
+            },
+            {
+              "text": " might mark where the Liberty Pole stood.",
+              "start": 447.05999755859375,
+              "end": 449.2200012207031
+            },
+            {
+              "text": " A street name like John Street",
+              "start": 449.70001220703125,
+              "end": 451.3800048828125
+            },
+            {
+              "text": " hides a tale of a 1770s theater riot",
+              "start": 451.3800048828125,
+              "end": 454.2799987792969
+            },
+            {
+              "text": " between British officers and patriots.",
+              "start": 454.2799987792969,
+              "end": 456.3599853515625
+            },
+            {
+              "text": " The city's modern hustle",
+              "start": 457.1400146484375,
+              "end": 458.2200012207031
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " flows around these markers quietly.",
+              "start": 458.2200012207031,
+              "end": 460.1400146484375
+            },
+            {
+              "text": " By exploring places like Francis Tavern and Federal Hall",
+              "start": 461.29998779296875,
+              "end": 464.2799987792969
+            },
+            {
+              "text": " and this memorial, we've, in a sense,",
+              "start": 464.2799987792969,
+              "end": 466.6400146484375
+            },
+            {
+              "text": " communed with the spirits of 1776 and beyond.",
+              "start": 466.8800048828125,
+              "end": 470.0199890136719
+            },
+            {
+              "text": " Take a moment here to close your eyes",
+              "start": 470.5,
+              "end": 472.4599914550781
+            },
+            {
+              "text": " and imagine the voices.",
+              "start": 472.4599914550781,
+              "end": 473.6199951171875
+            },
+            {
+              "text": " Washington's eloquent but trembling farewell,",
+              "start": 474.32000732421875,
+              "end": 476.4599914550781
+            },
+            {
+              "text": " the whoop of a soldier pulling King George down,",
+              "start": 476.9800109863281,
+              "end": 479.4200134277344
+            },
+            {
+              "text": " the soft lament of a mother at a slave funeral",
+              "start": 479.9800109863281,
+              "end": 482.20001220703125
+            },
+            {
+              "text": " at this burial ground.",
+              "start": 482.20001220703125,
+              "end": 483.3399963378906
+            },
+            {
+              "text": " Those echoes are the true sounds of our nation's beginning,",
+              "start": 484.1000061035156,
+              "end": 486.6600036621094
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " passionate, polyglot, painful, brave.",
+              "start": 487.6400146484375,
+              "end": 490.05999755859375
+            },
+            {
+              "text": " Thank you for joining me on this journey into the past.",
+              "start": 490.55999755859375,
+              "end": 493.6000061035156
+            },
+            {
+              "text": " As we go forth from the African burial ground,",
+              "start": 494.0,
+              "end": 496.32000732421875
+            },
+            {
+              "text": " perhaps to grab lunch on the very streets",
+              "start": 497.0199890136719,
+              "end": 498.9800109863281
+            },
+            {
+              "text": " where Redcoats marched and patriots ran,",
+              "start": 498.9800109863281,
+              "end": 501.1000061035156
+            },
+            {
+              "text": " remember the layers of history beneath your feet.",
+              "start": 501.9800109863281,
+              "end": 503.94000244140625
+            },
+            {
+              "text": " New York City doesn't wear its age on its sleeve",
+              "start": 504.4599914550781,
+              "end": 506.9599914550781
+            },
+            {
+              "text": " like some older towns.",
+              "start": 506.9599914550781,
+              "end": 508.20001220703125
+            },
+            {
+              "text": " You must seek it.",
+              "start": 509.1400146484375,
+              "end": 509.9800109863281
+            },
+            {
+              "text": " But when you do,",
+              "start": 510.6400146484375,
+              "end": 511.44000244140625
+            },
+            {
+              "text": " you find that the saga of the American Revolution",
+              "start": 511.79998779296875,
+              "end": 514.2000122070312
+            },
+            {
+              "text": " and the birth of the United States",
+              "start": 514.2000122070312,
+              "end": 516.260009765625
+            },
+            {
+              "text": " is etched in these blocks,",
+              "start": 516.4000244140625,
+              "end": 518.260009765625
+            },
+            {
+              "text": " from the Battery to Bowling Green,",
+              "start": 518.8800048828125,
+              "end": 520.280029296875
+            },
+            {
+              "text": " up Broadway to City Hall, and here.",
+              "start": 520.5999755859375,
+              "end": 522.6199951171875
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " In the end, New York was indeed",
+              "start": 522.97998046875,
+              "end": 524.9199829101562
+            },
+            {
+              "text": " a crucible of American liberty,",
+              "start": 524.9199829101562,
+              "end": 526.5399780273438
+            },
+            {
+              "text": " not a serene New England green,",
+              "start": 527.0599975585938,
+              "end": 528.719970703125
+            },
+            {
+              "text": " but a loud, messy seaport full of the world's peoples",
+              "start": 528.9000244140625,
+              "end": 532.219970703125
+            },
+            {
+              "text": " where idealism and commerce rubbed shoulders.",
+              "start": 532.739990234375,
+              "end": 535.0599975585938
+            },
+            {
+              "text": " And perhaps that made it the perfect place",
+              "start": 535.719970703125,
+              "end": 537.719970703125
+            },
+            {
+              "text": " to launch a country likewise",
+              "start": 537.719970703125,
+              "end": 539.3599853515625
+            },
+            {
+              "text": " full of clashing yet united diversity.",
+              "start": 539.3599853515625,
+              "end": 541.4400024414062
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " I invite you to continue exploring on your own.",
+              "start": 542.1599731445312,
+              "end": 544.5399780273438
+            },
+            {
+              "text": " Maybe visit the small museum inside Federal Hall",
+              "start": 545.4199829101562,
+              "end": 547.739990234375
+            },
+            {
+              "text": " or walk up to St. Paul's Chapel to see Washington's Pew",
+              "start": 547.8800048828125,
+              "end": 551.3400268554688
+            },
+            {
+              "text": " or pop into France's Tavern for a tankard",
+              "start": 551.3400268554688,
+              "end": 554.0399780273438
+            },
+            {
+              "text": " and ponder the portraits of revolutionary figures",
+              "start": 554.2000122070312,
+              "end": 556.760009765625
+            },
+            {
+              "text": " on its walls.",
+              "start": 556.760009765625,
+              "end": 557.5800170898438
+            },
+            {
+              "text": " Every step in Lower Manhattan can be a step back in time",
+              "start": 558.219970703125,
+              "end": 561.3400268554688
+            },
+            {
+              "text": " if you know the story.",
+              "start": 561.3400268554688,
+              "end": 562.5
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " As we conclude, let's pay final respects here.",
+              "start": 563.4199829101562,
+              "end": 565.9400024414062
+            },
+            {
+              "text": " I'll pour a symbolic libation on the ground,",
+              "start": 566.7999877929688,
+              "end": 568.9600219726562
+            },
+            {
+              "text": " water for the ancestors,",
+              "start": 569.760009765625,
+              "end": 570.760009765625
+            },
+            {
+              "text": " and we might each silently thank them.",
+              "start": 571.2000122070312,
+              "end": 573.4199829101562
+            },
+            {
+              "text": " This is also part of the Revolution's legacy,",
+              "start": 573.760009765625,
+              "end": 576.3400268554688
+            },
+            {
+              "text": " the ongoing pursuit of equality",
+              "start": 576.8400268554688,
+              "end": 578.4000244140625
+            },
+            {
+              "text": " and acknowledgement of those who built this nation in chains",
+              "start": 578.4000244140625,
+              "end": 581.2999877929688
+            },
+            {
+              "text": " so that their progeny might one day taste freedom.",
+              "start": 581.2999877929688,
+              "end": 583.8400268554688
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "text": " Thank you for walking with me through history.",
+              "start": 584.7000122070312,
+              "end": 586.6199951171875
+            },
+            {
+              "text": " I hope you've been as inspired, as ired,",
+              "start": 587.1799926757812,
+              "end": 589.3200073242188
+            },
+            {
+              "text": " as I continually am by New York's revolutionary past,",
+              "start": 589.3200073242188,
+              "end": 592.5
+            },
+            {
+              "text": " a past that in many ways is still alive",
+              "start": 592.9600219726562,
+              "end": 595.2000122070312
+            },
+            {
+              "text": " in the city's spirit of resilience and reinvention.",
+              "start": 595.2000122070312,
+              "end": 597.3800048828125
+            },
+            {
+              "text": " Safe travels and never stop discovering.",
+              "start": 598.3400268554688,
+              "end": 601.02001953125
+            }
+          ]
+        }
+      ],
+      "audioUrl": "https://files.catbox.moe/zt7zco.mp3",
+      "coverImageUrl": "https://trinitychurchnyc.org/sites/default/files/styles/square_feature/public/2021-03/Trinity_Exterior_Credit-Colin-Winterbottom.jpg.webp?itok=ogocYBjP"
+    }
+  ],
+  "waypoints": [
+    {
+      "id": "BCDFC392-A21B-4A12-A0DD-2C941EBC6821",
+      "coordinate": {
+        "longitude": -74.0119,
+        "latitude": 40.7033
+      }
+    },
+    {
+      "id": "7A9E1846-8CE9-4E56-8E05-D81B1971BF60",
+      "coordinate": {
+        "longitude": -74.0132,
+        "latitude": 40.704
+      }
+    },
+    {
+      "id": "C4E5FE85-C242-47BE-B00F-D134EA7CD318",
+      "coordinate": {
+        "longitude": -74.0113,
+        "latitude": 40.7074
+      }
+    },
+    {
+      "id": "C4709596-AA48-4E26-96BC-659DE05215C0",
+      "coordinate": {
+        "longitude": -74.0103,
+        "latitude": 40.7073
+      }
+    },
+    {
+      "id": "3F634CE5-E598-4FB2-9685-E81287E14D80",
+      "coordinate": {
+        "longitude": -74.0122,
+        "latitude": 40.7081
+      }
+    }
+  ],
+  "routes": [
+    {
+      "fromWaypointId": "BCDFC392-A21B-4A12-A0DD-2C941EBC6821",
+      "toWaypointId": "7A9E1846-8CE9-4E56-8E05-D81B1971BF60",
+      "coordinates": [
+        {
+          "longitude": -74.0119,
+          "latitude": 40.7033
+        },
+        {
+          "longitude": -74.0125,
+          "latitude": 40.7037
+        },
+        {
+          "longitude": -74.0132,
+          "latitude": 40.704
+        }
+      ]
+    },
+    {
+      "fromWaypointId": "7A9E1846-8CE9-4E56-8E05-D81B1971BF60",
+      "toWaypointId": "C4E5FE85-C242-47BE-B00F-D134EA7CD318",
+      "coordinates": [
+        {
+          "longitude": -74.0132,
+          "latitude": 40.704
+        },
+        {
+          "longitude": -74.0123,
+          "latitude": 40.7058
+        },
+        {
+          "longitude": -74.0113,
+          "latitude": 40.7074
+        }
+      ]
+    },
+    {
+      "fromWaypointId": "C4E5FE85-C242-47BE-B00F-D134EA7CD318",
+      "toWaypointId": "C4709596-AA48-4E26-96BC-659DE05215C0",
+      "coordinates": [
+        {
+          "longitude": -74.0113,
+          "latitude": 40.7074
+        },
+        {
+          "longitude": -74.0103,
+          "latitude": 40.7073
+        }
+      ]
+    },
+    {
+      "fromWaypointId": "C4709596-AA48-4E26-96BC-659DE05215C0",
+      "toWaypointId": "3F634CE5-E598-4FB2-9685-E81287E14D80",
+      "coordinates": [
+        {
+          "longitude": -74.0103,
+          "latitude": 40.7073
+        },
+        {
+          "longitude": -74.0122,
+          "latitude": 40.7081
+        }
+      ]
+    }
+  ],
+  "coverImageUrl": "https://cdn.vox-cdn.com/thumbor/i2nRbHEF7sjbF-NYZ2pbPIGahoA=/0x0:4952x4528/1200x0/filters:focal(0x0:4952x4528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13154703/GettyImages_507137302.jpg"
+}
