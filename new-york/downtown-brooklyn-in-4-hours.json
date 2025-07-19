@@ -1,0 +1,527 @@
+{
+    "id": "e02be471-a4ba-454f-9001-2e57c8c8454c",
+    "title": "Downtown Brooklyn in 4 Hours",
+    "description": "A relaxed loop that threads Carroll Gardens breakfast spots, waterfront panoramas, and Brooklyn’s transit‑loving past into one compact morning.",
+    "duration": 14400,
+    "chapters": [
+      {
+        "id": "0dd010b9-0a56-4663-9dfb-db9d8c2ffc2a",
+        "waypointId": "fe4ab14a-ebe8-4020-b914-a9988ea6a0d6",
+        "title": "Salt's Cure",
+        "paragraphs": [
+          {
+            "segments": [
+              {
+                "text": "Salt's Cure's Carroll Gardens outpost brings West Coast ease to Court Street.",
+                "start": 0.0,
+                "end": 4.340000152587891
+              },
+              {
+                "text": "Counters lined with oatmeal griddle cakes that emerge sizzling,",
+                "start": 5.159999847412109,
+                "end": 8.100000381469727
+              },
+              {
+                "text": "their edges caramel brown while the middles stay almost custardy.",
+                "start": 8.720000267028809,
+                "end": 12.5
+              },
+              {
+                "text": "Pair them with thick cut ham, a soft scramble, or a black coffee for a",
+                "start": 13.15999984741211,
+                "end": 17.420000076293945
+              },
+              {
+                "text": "breakfast that feels indulgent but never heavy.",
+                "start": 17.420000076293945,
+                "end": 19.84000015258789
+              },
+              {
+                "text": "The sun pours through enormous front windows from eight in the morning",
+                "start": 20.260000228881836,
+                "end": 23.84000015258789
+              }
+            ]
+          },
+          {
+            "segments": [
+              {
+                "text": "giving the white tile room a warm studio light glow.",
+                "start": 23.84000015258789,
+                "end": 27.239999771118164
+              },
+              {
+                "text": "Service is quick and most diners are on their way within 45 minutes,",
+                "start": 27.239999771118164,
+                "end": 31.719999313354492
+              },
+              {
+                "text": "ideal for launching a tightly timed Brooklyn itinerary.",
+                "start": 32.459999084472656,
+                "end": 35.31999969482422
+              }
+            ]
+          }
+        ],
+        "audioUrl": "https://files.catbox.moe/3xvy5d.mp3",
+        "coverImageUrl": "https://images.squarespace-cdn.com/content/v1/66c510596bea734dbe6d8ba7/0195e7b0-6260-4de6-8eea-4e8578d9d83d/102623+-+Breakfast+By+Salt%27s+Cure-34.jpg"
+      },
+      {
+        "id": "ab3e3dd1-0f5b-45d3-bd90-748e02eba099",
+        "waypointId": "2d53448e-9448-4d5d-8c1f-dd4f566a8008",
+        "title": "Brooklyn Bridge Park – Pier 6",
+        "paragraphs": [
+          {
+            "segments": [
+              {
+                "text": "Where cargo piers once rusted, Pier 6 now",
+                "start": 0.0,
+                "end": 3.240000009536743
+              },
+              {
+                "text": "blooms with ornamental grasses, a hummingbird-friendly flower",
+                "start": 3.240000009536743,
+                "end": 6.420000076293945
+              },
+              {
+                "text": "field, and playgrounds whose names, Slide Mountain, Swing",
+                "start": 6.420000076293945,
+                "end": 9.9399995803833
+              },
+              {
+                "text": "Valley, say it all.",
+                "start": 9.9399995803833,
+                "end": 11.319999694824219
+              },
+              {
+                "text": "The East River breeze carries brine and the low horn",
+                "start": 11.619999885559082,
+                "end": 14.699999809265137
+              },
+              {
+                "text": "of the Governor's Island Ferry, while lower Manhattan",
+                "start": 14.699999809265137,
+                "end": 17.299999237060547
+              },
+              {
+                "text": "rises directly across the water.",
+                "start": 17.299999237060547,
+                "end": 19.31999969482422
+              }
+            ]
+          },
+          {
+            "segments": [
+              {
+                "text": "Begin your walk north on the Empire Fulton Ferry Esplanade,",
+                "start": 20.040000915527344,
+                "end": 22.979999542236328
+              },
+              {
+                "text": "wide planks at the water's edge, guiding you",
+                "start": 23.600000381469727,
+                "end": 26.040000915527344
+              },
+              {
+                "text": "past bobbing kayaks and the faint diesel whir of tugboats.",
+                "start": 26.040000915527344,
+                "end": 29.239999771118164
+              },
+              {
+                "text": "Each few hundred yards reveals a fresh skyline angle,",
+                "start": 29.84000015258789,
+                "end": 32.79999923706055
+              },
+              {
+                "text": "perfect excuses to linger over photos.",
+                "start": 33.2599983215332,
+                "end": 35.36000061035156
+              }
+            ]
+          }
+        ],
+        "audioUrl": "https://files.catbox.moe/rcfkhp.mp3",
+        "coverImageUrl": "https://media.timeout.com/images/102743125/image.jpg"
+      },
+      {
+        "id": "09b6c1ef-cb4b-4b11-bd9d-2ce6b4ab3e76",
+        "waypointId": "4ef6fc34-565b-4ec2-8313-165cd339e617",
+        "title": "Time Out Market Rooftop",
+        "paragraphs": [
+          {
+            "segments": [
+              {
+                "text": "Inside the 19th century brick-of-empire stores,",
+                "start": 0.0,
+                "end": 2.859999895095825
+              },
+              {
+                "text": "Time Out has curated a food hall",
+                "start": 3.4200000762939453,
+                "end": 4.920000076293945
+              },
+              {
+                "text": "that doubles as an observation deck.",
+                "start": 4.920000076293945,
+                "end": 7.019999980926514
+              },
+              {
+                "text": "An elevator ride to the fifth floor",
+                "start": 7.800000190734863,
+                "end": 9.5600004196167
+              },
+              {
+                "text": "spits you onto a wraparound terrace",
+                "start": 9.5600004196167,
+                "end": 11.399999618530273
+              },
+              {
+                "text": "where the Brooklyn and Manhattan bridges",
+                "start": 11.399999618530273,
+                "end": 13.260000228881836
+              },
+              {
+                "text": "frame the skyline like steel picture frames.",
+                "start": 13.260000228881836,
+                "end": 15.619999885559082
+              }
+            ]
+          },
+          {
+            "segments": [
+              {
+                "text": "Coffee from Devotion or a slice from Juliana's",
+                "start": 16.8799991607666,
+                "end": 19.899999618530273
+              },
+              {
+                "text": "travels well up here.",
+                "start": 19.899999618530273,
+                "end": 20.6200008392334
+              },
+              {
+                "text": "Even if the wind whips off the river,",
+                "start": 20.899999618530273,
+                "end": 22.540000915527344
+              },
+              {
+                "text": "you can duck behind panoramic glass walls inside",
+                "start": 23.100000381469727,
+                "end": 26.020000457763672
+              },
+              {
+                "text": "and keep the same jaw-dropping view.",
+                "start": 26.020000457763672,
+                "end": 28.079999923706055
+              }
+            ]
+          }
+        ],
+        "audioUrl": "https://files.catbox.moe/cui3gu.mp3",
+        "coverImageUrl": "https://partyslate.imgix.net/photos/2375273/photo-b2351b68-8cc0-4585-85d5-4b16de6275c9.jpg?ixlib=js-2.3.2&auto=compress%2Cformat&bg=fff&cs=srgb"
+      },
+      {
+        "id": "2f4c238c-03c8-406c-9d4a-08e99b19a3e3",
+        "waypointId": "0e236974-2e92-4d8e-b269-78c0e839effe",
+        "title": "Brooklyn Heights Promenade",
+        "paragraphs": [
+          {
+            "segments": [
+              {
+                "text": "Suspended atop the double-decked BQE, this one-teen, 800-foot cantilevered walkway is",
+                "start": 0.0,
+                "end": 6.159999847412109
+              },
+              {
+                "text": "a testament to civic improvisation.",
+                "start": 6.159999847412109,
+                "end": 8.479999542236328
+              },
+              {
+                "text": "A neighborhood-saving compromise turned into New York's most cinematic balcony.",
+                "start": 8.880000114440918,
+                "end": 12.5600004196167
+              },
+              {
+                "text": "Gaze south for the Statue of Liberty, north for the Empire State Building, and across",
+                "start": 13.319999694824219,
+                "end": 17.639999389648438
+              },
+              {
+                "text": "the water for the blues and silvers of Lower Manhattan.",
+                "start": 17.639999389648438,
+                "end": 20.520000457763672
+              }
+            ]
+          },
+          {
+            "segments": [
+              {
+                "text": "Locals jog the granite-paved length before work, but midday it's languid.",
+                "start": 21.84000015258789,
+                "end": 25.84000015258789
+              },
+              {
+                "text": "Bench after bench open for you to sit, breathe in the river air, and appreciate how the city's",
+                "start": 26.559999465942383,
+                "end": 31.8799991607666
+              },
+              {
+                "text": "ceaseless energy can still carve out a slice of calm.",
+                "start": 31.8799991607666,
+                "end": 34.560001373291016
+              }
+            ]
+          }
+        ],
+        "audioUrl": "https://files.catbox.moe/jqu5o3.mp3",
+        "coverImageUrl": "https://images.ctfassets.net/1aemqu6a6t65/5x0ci1DDzHR1RueuQrB7lM/dcd3afe7f4b83010db3b2ae9f4f2e906/promenade_bamiadedoyin_73"
+      },
+      {
+        "id": "08f1b3f4-ed84-4973-b8f6-0779497b7425",
+        "waypointId": "22137ee3-922b-4288-9efe-9f7868467bc1",
+        "title": "New York Transit Museum",
+        "paragraphs": [
+          {
+            "segments": [
+              {
+                "text": "A stairway marked simply SUBWAY drops you into a decommissioned 1936 Indy station that",
+                "start": 0.0,
+                "end": 6.480000019073486
+              },
+              {
+                "text": "now houses a rolling timeline of metropolitan transit.",
+                "start": 6.480000019073486,
+                "end": 9.579999923706055
+              },
+              {
+                "text": "Wooden-slat elevated coaches stand beside aqua and cream post-war artens, their vestibules",
+                "start": 10.239999771118164,
+                "end": 15.319999694824219
+              },
+              {
+                "text": "still echoing with the clack of bygone commutes.",
+                "start": 15.319999694824219,
+                "end": 18.020000457763672
+              }
+            ]
+          },
+          {
+            "segments": [
+              {
+                "text": "Interactive galleries unpack the engineering behind third-rail power, fare collection gadgets,",
+                "start": 18.81999969482422,
+                "end": 23.920000076293945
+              },
+              {
+                "text": "and the labor that laid track through solid bedrock.",
+                "start": 24.139999389648438,
+                "end": 27.6200008392334
+              },
+              {
+                "text": "Even a brisk hour here leaves you with a new appreciation for the machinery that knits",
+                "start": 28.219999313354492,
+                "end": 32.279998779296875
+              },
+              {
+                "text": "five boroughs into one metropolis.",
+                "start": 32.279998779296875,
+                "end": 34.08000183105469
+              }
+            ]
+          }
+        ],
+        "audioUrl": "https://files.catbox.moe/hcl2zo.mp3",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjzfPYVkQO0HFxlwQg8hjjfjUpIHqaNReGcQ&s"
+      },
+      {
+        "id": "692d6f60-79cb-4282-b540-e65d2e73af2a",
+        "waypointId": "ea2bbae8-a579-441c-ac78-94b0cb2002e2",
+        "title": "Books Are Magic",
+        "paragraphs": [
+          {
+            "segments": [
+              {
+                "text": "When Beloved Book Court closed, novelist Emma Straub",
+                "start": 0.0,
+                "end": 2.9600000381469727
+              },
+              {
+                "text": "opened this indie shop as both replacement and reinvention.",
+                "start": 2.9600000381469727,
+                "end": 6.260000228881836
+              },
+              {
+                "text": "Sunlit shelves bend under staff-picked tags,",
+                "start": 7.119999885559082,
+                "end": 9.5
+              },
+              {
+                "text": "small press surprises, and an entire alcove for children",
+                "start": 9.960000038146973,
+                "end": 13.34000015258789
+              },
+              {
+                "text": "plastered with hand-drawn dragons and glittering stars.",
+                "start": 13.34000015258789,
+                "end": 16.100000381469727
+              }
+            ]
+          },
+          {
+            "segments": [
+              {
+                "text": "Lingering is half the point.",
+                "start": 17.040000915527344,
+                "end": 18.100000381469727
+              },
+              {
+                "text": "Grab a locally roasted drip,",
+                "start": 18.739999771118164,
+                "end": 19.979999542236328
+              },
+              {
+                "text": "flip through a Brooklyn memoir,",
+                "start": 20.739999771118164,
+                "end": 21.700000762939453
+              },
+              {
+                "text": "and let the morning's river air bustle",
+                "start": 22.100000381469727,
+                "end": 24.15999984741211
+              },
+              {
+                "text": "settle into the quiet rustle of turning pages.",
+                "start": 24.15999984741211,
+                "end": 26.68000030517578
+              },
+              {
+                "text": "A final, contemplative note before you head onward.",
+                "start": 26.68000030517578,
+                "end": 30.260000228881836
+              }
+            ]
+          }
+        ],
+        "audioUrl": "https://files.catbox.moe/5l3kma.mp3",
+        "coverImageUrl": "https://images.ctfassets.net/1aemqu6a6t65/2gRMeSFmML6cQcaODUyNjd/ed8379fb11cd0172e7773f41b692978d/All-In-NYC_Books_Are_Magic?w=1200&h=800&q=75"
+      }
+    ],
+    "waypoints": [
+      {
+        "id": "fe4ab14a-ebe8-4020-b914-a9988ea6a0d6",
+        "coordinate": {
+          "longitude": -73.99825,
+          "latitude": 40.68114
+        }
+      },
+      {
+        "id": "2d53448e-9448-4d5d-8c1f-dd4f566a8008",
+        "coordinate": {
+          "longitude": -73.99953,
+          "latitude": 40.69268
+        }
+      },
+      {
+        "id": "4ef6fc34-565b-4ec2-8313-165cd339e617",
+        "coordinate": {
+          "longitude": -73.99048,
+          "latitude": 40.70328
+        }
+      },
+      {
+        "id": "0e236974-2e92-4d8e-b269-78c0e839effe",
+        "coordinate": {
+          "longitude": -73.9967,
+          "latitude": 40.696
+        }
+      },
+      {
+        "id": "22137ee3-922b-4288-9efe-9f7868467bc1",
+        "coordinate": {
+          "longitude": -73.99003,
+          "latitude": 40.69028
+        }
+      },
+      {
+        "id": "ea2bbae8-a579-441c-ac78-94b0cb2002e2",
+        "coordinate": {
+          "longitude": -73.99306,
+          "latitude": 40.68448
+        }
+      }
+    ],
+    "routes": [
+      {
+        "fromWaypointId": "fe4ab14a-ebe8-4020-b914-a9988ea6a0d6",
+        "toWaypointId": "2d53448e-9448-4d5d-8c1f-dd4f566a8008",
+        "coordinates": [
+          {
+            "longitude": -73.99825,
+            "latitude": 40.68114
+          },
+          {
+            "longitude": -73.99953,
+            "latitude": 40.69268
+          }
+        ]
+      },
+      {
+        "fromWaypointId": "2d53448e-9448-4d5d-8c1f-dd4f566a8008",
+        "toWaypointId": "4ef6fc34-565b-4ec2-8313-165cd339e617",
+        "coordinates": [
+          {
+            "longitude": -73.99953,
+            "latitude": 40.69268
+          },
+          {
+            "longitude": -73.99048,
+            "latitude": 40.70328
+          }
+        ]
+      },
+      {
+        "fromWaypointId": "4ef6fc34-565b-4ec2-8313-165cd339e617",
+        "toWaypointId": "0e236974-2e92-4d8e-b269-78c0e839effe",
+        "coordinates": [
+          {
+            "longitude": -73.99048,
+            "latitude": 40.70328
+          },
+          {
+            "longitude": -73.9967,
+            "latitude": 40.696
+          }
+        ]
+      },
+      {
+        "fromWaypointId": "0e236974-2e92-4d8e-b269-78c0e839effe",
+        "toWaypointId": "22137ee3-922b-4288-9efe-9f7868467bc1",
+        "coordinates": [
+          {
+            "longitude": -73.9967,
+            "latitude": 40.696
+          },
+          {
+            "longitude": -73.99003,
+            "latitude": 40.69028
+          }
+        ]
+      },
+      {
+        "fromWaypointId": "22137ee3-922b-4288-9efe-9f7868467bc1",
+        "toWaypointId": "ea2bbae8-a579-441c-ac78-94b0cb2002e2",
+        "coordinates": [
+          {
+            "longitude": -73.99003,
+            "latitude": 40.69028
+          },
+          {
+            "longitude": -73.99306,
+            "latitude": 40.68448
+          }
+        ]
+      }
+    ],
+    "coverImageUrl": "https://media.timeout.com/images/105683556/image.jpg"
+  }
